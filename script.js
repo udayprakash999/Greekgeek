@@ -17,47 +17,22 @@ const options = {
   threshold: 0.2,
 };
 
-// const observer = new IntersectionObserver((entries, observer) => {
-//   entries.forEach((entry) => {
-//     if (entry.isIntersecting) {
-//       console.log("touched", entry.target.className);
+const BASE_URL = "https://greekgeek-ygnt.onrender.com";
 
-//       if (entry.target.className === "section1") {
-//         container.classList = "";
-//         container.classList.add("cont-section1");
-//         main.style.background = `url('assets/header.png')`
-//         main.style.right = "0"
-//         main.style.left = "auto"
-//       }
-//       if (entry.target.className === "section3") {
-//         container.classList = "";
-//         container.classList.add("cont-section1");
-//         main.style.background = `url('building.png')`
-//         main.style.right = "auto"
-//         main.style.left = "0"
-//         container.style.backgroundColor = "aliceblue"
-//       }
-//       if (entry.target.className === "section6") {
-//         container.classList = "";
-//         container.classList.add("cont-section1");
-//         main.style.background = `url('dragons.png')`
-//       }
-//     }
-//   });
-// }, options);
+  function copyEndpoint(inputId, button) {
+    const inputField = document.getElementById(inputId);
+    const fullUrl = `${BASE_URL}${inputField.value}`;
+    navigator.clipboard.writeText(fullUrl).then(() => {
+      const originalText = button.textContent;
+      button.textContent = "Copied!";
+      
+      setTimeout(() => {
+        button.textContent = originalText;
+      }, 2000);
+    });
+  }
 
-// sections.forEach((section) => {
-//   observer.observe(section);
-// });
 
-function copyEndpoint() {
-  const input = document.getElementById("get-characters");
-  input.removeAttribute("readonly");
-  input.select();
-  document.execCommand("copy");
-  input.setAttribute("readonly", "");
-  alert("Endpoint copied to clipboard!");
-}
 
 const characterExample = `{
       "name": "Zeus",
