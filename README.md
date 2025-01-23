@@ -3,6 +3,11 @@
 Welcome to **GreekGeek**, a project designed to bring Greek mythology into the hands of developers, researchers, and enthusiasts. This application provides a frontend experience showcasing how to interact with the **GreekGeek API**, which provides detailed information about Gods, Monsters, Places, and Weapons from Greek mythology.
 
 ---
+## **What is the GreekGeek API?**
+The GreekGeek API is a RESTful service that opens the gates to the fascinating world of Greek mythology. It provides detailed, structured information about: Gods, Goddess, Heroes, Monsters, Places and Weapons from Greek Mythology.
+
+Whether you're a developer, mythology enthusiast, or researcher, the GreekGeek API provides all you need to bring Greek mythology into your projects.
+
 
 ## **Features**
 - Interactive API Endpoints for retrieving information:
