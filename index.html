@@ -86,32 +86,10 @@
         <h4>Step Into the Pantheon of the</h4>
         <h1>GreekGeek</h1>
         <!-- <button class="btn"><a href="../index.html">GoTo-Documentation</a></button> -->
-         <button id="Getapi" onclick="callApi()">Get Data</button>
-  <div id="response">Response will appear here...</div>
+  
       </div>
     </header>
   </body>
 
-   <script>
-    function callApi() {
-      const apiUrl = "https://greekgeek-ygnt.onrender.com/api/getCharacters";
 
-     
-      fetch(apiUrl)
-        .then((response) => {
-          if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-          }
-          return response.json();
-        })
-        .then((data) => {
-        
-          document.getElementById("response").textContent = JSON.stringify(data, null, 2);
-        })
-        .catch((error) => {
-          
-          document.getElementById("response").textContent = `Error: ${error.message}`;
-        });
-    }
-  </script>
 </html>
