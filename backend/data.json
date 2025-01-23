@@ -1,0 +1,2256 @@
+{
+  "greeks": [
+    {
+      "name": "Zeus",
+      "type": "God",
+      "domain": "Sky and Thunder",
+      "title": "King of the Gods",
+      "parentage": {
+        "father": "Cronus",
+        "mother": "Rhea"
+      },
+      "symbols": ["Thunderbolt", "Eagle", "Oak Tree"],
+      "associatedAnimals": ["Eagle", "Bull"],
+      "description": "Zeus is the king of the Olympian gods and ruler of Mount Olympus. He governs the sky, thunder, and law.",
+      "notableMyths": [
+        {
+          "title": "The Defeat of Cronus",
+          "summary": "Zeus led his siblings to overthrow their father, Cronus, and established the rule of the Olympians."
+        },
+        {
+          "title": "The Abduction of Europa",
+          "summary": "Zeus transformed into a bull and carried Europa across the sea to Crete."
+        },
+        {
+          "title": "The Punishment of Prometheus",
+          "summary": "Zeus punished Prometheus for giving fire to humans by chaining him to a rock where an eagle ate his liver daily."
+        }
+      ],
+      "relationships": {
+        "spouse": "Hera",
+        "siblings": ["Hades", "Poseidon", "Hera", "Demeter", "Hestia"],
+        "children": [
+          "Athena",
+          "Apollo",
+          "Artemis",
+          "Ares",
+          "Hermes",
+          "Dionysus",
+          "Hercules (Heracles)"
+        ]
+      }
+    },
+    {
+      "name": "Hera",
+      "type": "Goddess",
+      "domain": "Marriage and Family",
+      "title": "Queen of the Gods",
+      "parentage": {
+        "father": "Cronus",
+        "mother": "Rhea"
+      },
+      "symbols": ["Peacock", "Diadem", "Lotus Staff"],
+      "associatedAnimals": ["Peacock", "Cow"],
+      "description": "Hera is the queen of the Olympian gods and the goddess of marriage, women, and family. She is known for her jealous and vengeful nature, particularly toward the lovers and children of her husband, Zeus.",
+      "notableMyths": [
+        {
+          "title": "The Marriage of Zeus and Hera",
+          "summary": "Hera and Zeus were married after Zeus courted her for a long time, despite Hera's initial refusal."
+        },
+        {
+          "title": "The Punishment of Io",
+          "summary": "Hera punished Io, a priestess of Zeus, by turning her into a cow after Zeus transformed himself to hide his infidelity."
+        },
+        {
+          "title": "The Birth of Hephaestus",
+          "summary": "Hera gave birth to Hephaestus alone, in response to Zeus' birth of Athena without her, but Hephaestus was later rejected for his deformity."
+        }
+      ],
+      "relationships": {
+        "spouse": "Zeus",
+        "siblings": ["Hades", "Poseidon", "Demeter", "Hestia", "Zeus"],
+        "children": ["Ares", "Hephaestus", "Hebe", "Eileithyia"]
+      }
+    },
+    {
+      "name": "Poseidon",
+      "type": "God",
+      "domain": "Sea, Earthquakes, and Horses",
+      "title": "God of the Sea",
+      "parentage": {
+        "father": "Cronus",
+        "mother": "Rhea"
+      },
+      "symbols": ["Trident", "Horse", "Dolphin"],
+      "associatedAnimals": ["Horse", "Dolphin", "Bull"],
+      "description": "Poseidon is the god of the sea, earthquakes, and horses. He is known for his temper and is often portrayed as wielding a trident. He controls the waters and can cause storms, shipwrecks, and floods.",
+      "notableMyths": [
+        {
+          "title": "The Contest for Athens",
+          "summary": "Poseidon and Athena vied for patronage of the city of Athens. Poseidon offered a saltwater spring, but Athena gave the olive tree, which was deemed more useful, making her the victor."
+        },
+        {
+          "title": "The Creation of Horses",
+          "summary": "Poseidon is credited with the creation of horses, often associated with his role as the god of the sea, where he is said to have created the first horses by striking the ground with his trident."
+        },
+        {
+          "title": "The Odyssey",
+          "summary": "Poseidon plays a significant role in Homer's 'Odyssey,' where he seeks vengeance against Odysseus for blinding his son, Polyphemus, the Cyclops."
+        }
+      ],
+      "relationships": {
+        "spouse": "Amphitrite",
+        "siblings": ["Hades", "Zeus", "Hera", "Demeter", "Hestia"],
+        "children": [
+          "Triton",
+          "Polyphemus",
+          "Theseus (sometimes considered his son)"
+        ]
+      }
+    },
+    {
+      "name": "Demeter",
+      "type": "Goddess",
+      "domain": "Agriculture, Fertility, and Harvest",
+      "title": "Goddess of the Harvest",
+      "parentage": {
+        "father": "Cronus",
+        "mother": "Rhea"
+      },
+      "symbols": ["Cornucopia", "Wheat", "Torch"],
+      "associatedAnimals": ["Snake", "Pig"],
+      "description": "Demeter is the goddess of agriculture, fertility, and the harvest. She is deeply associated with the cycle of life and death, as well as the growth and nurturing of crops.",
+      "notableMyths": [
+        {
+          "title": "The Abduction of Persephone",
+          "summary": "Demeter's daughter, Persephone, was abducted by Hades to be his wife in the Underworld. Demeter's grief caused the earth to become barren, leading to the creation of the seasons."
+        },
+        {
+          "title": "The Creation of the Eleusinian Mysteries",
+          "summary": "Demeter, with her daughter Persephone, created the Eleusinian Mysteries, secret religious rites that were meant to ensure a good harvest and proper life after death."
+        },
+        {
+          "title": "The Wandering of Demeter",
+          "summary": "After Persephone's abduction, Demeter wandered the earth in search of her, during which she neglected her divine duties, causing a great famine."
+        }
+      ],
+      "relationships": {
+        "spouse": "Iasion (in some myths)",
+        "siblings": ["Hades", "Poseidon", "Hera", "Zeus", "Hestia"],
+        "children": ["Persephone"]
+      }
+    },
+    {
+      "name": "Athena",
+      "type": "Goddess",
+      "domain": "Wisdom, Strategy, and Warfare",
+      "title": "Goddess of Wisdom",
+      "parentage": {
+        "father": "Zeus",
+        "mother": "Metis"
+      },
+      "symbols": ["Owl", "Aegis", "Olive Tree"],
+      "associatedAnimals": ["Owl", "Snake"],
+      "description": "Athena is the goddess of wisdom, warfare, strategy, and craftsmanship. Known for her strategic mind and fair judgment, she is one of the most revered deities in Greek mythology and represents the ideal of rational warfare.",
+      "notableMyths": [
+        {
+          "title": "The Birth of Athena",
+          "summary": "Athena sprang fully grown and armored from the head of Zeus after he swallowed her pregnant mother, Metis. She became one of the most powerful Olympian gods."
+        },
+        {
+          "title": "The Contest for Athens",
+          "summary": "Athena and Poseidon competed to become the patron deity of Athens. Athena's gift of the olive tree was considered more valuable, and she won the city’s favor."
+        },
+        {
+          "title": "The Odyssey",
+          "summary": "Athena plays a crucial role in Homer's 'Odyssey,' aiding Odysseus on his journey home and helping him reclaim his kingdom from the suitors who invaded it."
+        }
+      ],
+      "relationships": {
+        "spouse": "None (Virgin Goddess)",
+        "siblings": [
+          "Ares",
+          "Apollo",
+          "Artemis",
+          "Hermes",
+          "Dionysus",
+          "Hercules (Heracles)"
+        ],
+        "children": "None"
+      }
+    },
+    {
+      "name": "Apollo",
+      "type": "God",
+      "domain": "Sun, Music, Poetry, and Healing",
+      "title": "God of the Sun",
+      "parentage": {
+        "father": "Zeus",
+        "mother": "Leto"
+      },
+      "symbols": ["Lyre", "Laurel Wreath", "Bow and Arrow"],
+      "associatedAnimals": ["Dolphin", "Swan", "Crow"],
+      "description": "Apollo is the god of the sun, music, poetry, prophecy, and healing. He is known for his beauty and talent, as well as his role as a bringer of light and truth. Apollo was also revered as a god of medicine and archery.",
+      "notableMyths": [
+        {
+          "title": "The Slaying of Python",
+          "summary": "Apollo killed the serpent Python, which guarded the oracle of Delphi. Afterward, Apollo claimed the oracle and became its patron."
+        },
+        {
+          "title": "The Story of Daphne",
+          "summary": "Apollo fell in love with the nymph Daphne, who was turned into a laurel tree to escape his pursuit. The laurel became sacred to Apollo."
+        },
+        {
+          "title": "The Trojan War",
+          "summary": "Apollo played a significant role in the Trojan War, aiding the Trojans and punishing the Greeks, including sending a plague upon them."
+        }
+      ],
+      "relationships": {
+        "spouse": "None (Virgin God)",
+        "siblings": ["Artemis"],
+        "children": ["Asclepius", "Orpheus (sometimes considered his son)"]
+      }
+    },
+    {
+      "name": "Artemis",
+      "type": "Goddess",
+      "domain": "Hunt, Moon, and Wilderness",
+      "title": "Goddess of the Hunt",
+      "parentage": {
+        "father": "Zeus",
+        "mother": "Leto"
+      },
+      "symbols": ["Bow and Arrow", "Moon", "Deer"],
+      "associatedAnimals": ["Deer", "Bear", "Wild Boar"],
+      "description": "Artemis is the goddess of the hunt, wilderness, the moon, and protector of young women. She is known for her independence and strength, often depicted as a huntress with her bow and arrows. Artemis is also a virgin goddess, often associated with chastity and nature.",
+      "notableMyths": [
+        {
+          "title": "The Birth of Artemis",
+          "summary": "Artemis was born first, assisting her mother, Leto, in giving birth to her twin brother Apollo on the island of Delos."
+        },
+        {
+          "title": "The Transformation of Actaeon",
+          "summary": "The hunter Actaeon stumbled upon Artemis while she bathed, and in her anger, she transformed him into a stag, where he was torn apart by his own hounds."
+        },
+        {
+          "title": "The Calydonian Boar Hunt",
+          "summary": "Artemis sent a giant boar to ravage Calydon, and a group of heroes, including Atalanta, participated in the hunt to kill the beast."
+        }
+      ],
+      "relationships": {
+        "spouse": "None (Virgin Goddess)",
+        "siblings": ["Apollo"],
+        "children": "None"
+      }
+    },
+    {
+      "name": "Ares",
+      "type": "God",
+      "domain": "War and Violence",
+      "title": "God of War",
+      "parentage": {
+        "father": "Zeus",
+        "mother": "Hera"
+      },
+      "symbols": ["Spear", "Helmet", "Shield"],
+      "associatedAnimals": ["Vulture", "Snake", "Dog"],
+      "description": "Ares is the god of war, violence, and bloodshed. Known for his aggressive and often chaotic nature, Ares represents the brutal aspects of conflict, as opposed to the strategic warfare of Athena. Despite his power, he is often disliked by both gods and mortals.",
+      "notableMyths": [
+        {
+          "title": "The Trojan War",
+          "summary": "Ares played a significant role in the Trojan War, siding with the Trojans and fighting for them against the Greeks. He was injured by Diomedes, who was aided by Athena."
+        },
+        {
+          "title": "The Affair with Aphrodite",
+          "summary": "Ares had an affair with Aphrodite, the goddess of love, while she was married to Hephaestus. Their affair was discovered, and Hephaestus trapped them in a net to shame them."
+        },
+        {
+          "title": "The Murder of Myrmidon",
+          "summary": "Ares killed Myrmidon, a leader of the Myrmidons, in a fit of rage during the Trojan War. His violence was a common theme in many of his myths."
+        }
+      ],
+      "relationships": {
+        "spouse": "None (Although he had various lovers, including Aphrodite)",
+        "siblings": ["Hades", "Poseidon", "Hera", "Demeter", "Hestia"],
+        "children": ["Eros", "Harmonia", "Phobos", "Deimos"]
+      }
+    },
+    {
+      "name": "Aphrodite",
+      "type": "Goddess",
+      "domain": "Love, Beauty, and Desire",
+      "title": "Goddess of Love",
+      "parentage": {
+        "father": "Uranus",
+        "mother": "Sea Foam (or Dione, in some myths)"
+      },
+      "symbols": ["Dove", "Swan", "Rose", "Mirror"],
+      "associatedAnimals": ["Dove", "Swan", "Sparrow"],
+      "description": "Aphrodite is the goddess of love, beauty, desire, and fertility. Known for her captivating beauty, she is often depicted as the embodiment of romantic and physical attraction. Aphrodite has many myths surrounding love, both divine and mortal, and plays a central role in many Greek myths.",
+      "notableMyths": [
+        {
+          "title": "The Birth of Aphrodite",
+          "summary": "Aphrodite was born from the sea foam that arose when Uranus's severed genitals were thrown into the sea. She emerged fully grown and is often depicted as rising from the water."
+        },
+        {
+          "title": "The Affair with Ares",
+          "summary": "Aphrodite had a well-known affair with Ares, the god of war, despite being married to Hephaestus. Their love affair was discovered by Hephaestus, who trapped them in a net as punishment."
+        },
+        {
+          "title": "The Judgment of Paris",
+          "summary": "Aphrodite was one of the three goddesses who competed for the title of 'fairest.' Paris, the prince of Troy, awarded her the golden apple, choosing her over Hera and Athena. In return, she promised him the love of the most beautiful mortal woman, Helen."
+        }
+      ],
+      "relationships": {
+        "spouse": "Hephaestus",
+        "siblings": ["Eros", "Ares", "Hades", "Poseidon", "Demeter", "Hera"],
+        "children": ["Eros (Cupid)", "Harmonia", "Aeneas (in some myths)"]
+      }
+    },
+    {
+      "name": "Hephaestus",
+      "type": "God",
+      "domain": "Fire, Metalworking, and Craftsmanship",
+      "title": "God of Fire and Forge",
+      "parentage": {
+        "father": "Zeus",
+        "mother": "Hera"
+      },
+      "symbols": ["Anvil", "Hammer", "Tongs"],
+      "associatedAnimals": ["Donkey", "Ox"],
+      "description": "Hephaestus is the god of fire, metalworking, craftsmanship, and smithing. Known for his skill in creating beautiful and powerful artifacts, he is a master blacksmith and the craftsman of the gods. Despite his physical imperfections, he is revered for his ingenious creations.",
+      "notableMyths": [
+        {
+          "title": "The Birth of Hephaestus",
+          "summary": "Hephaestus was born to Hera alone, without Zeus's involvement, and in some myths, he was thrown from Mount Olympus due to his deformities, leading to his lameness."
+        },
+        {
+          "title": "The Creation of Pandora",
+          "summary": "Hephaestus played a key role in the creation of Pandora, the first woman, who was made as a punishment for humanity. He crafted her from clay and gave her life."
+        },
+        {
+          "title": "The Marriage to Aphrodite",
+          "summary": "Hephaestus was married to Aphrodite, though their relationship was troubled by her love affair with Ares. Hephaestus later trapped them in a net to reveal their infidelity to the other gods."
+        }
+      ],
+      "relationships": {
+        "spouse": "Aphrodite",
+        "siblings": ["Ares", "Hera", "Demeter", "Poseidon", "Zeus"],
+        "children": [
+          "Erymanthian Boar",
+          "Harmonia (sometimes considered his daughter with Aphrodite)"
+        ]
+      }
+    },
+    {
+      "name": "Hermes",
+      "type": "God",
+      "domain": "Commerce, Thieves, and Messenger of the Gods",
+      "title": "Messenger of the Gods",
+      "parentage": {
+        "father": "Zeus",
+        "mother": "Maia"
+      },
+      "symbols": ["Caduceus", "Winged Sandals", "Winged Helmet"],
+      "associatedAnimals": ["Rooster", "Tortoise", "Ram"],
+      "description": "Hermes is the god of commerce, thieves, travelers, and the messenger of the gods. Known for his speed, wit, and cleverness, Hermes guides souls to the underworld and is often depicted as a trickster. He is also a protector of merchants and shepherds.",
+      "notableMyths": [
+        {
+          "title": "The Theft of Apollo’s Cattle",
+          "summary": "As an infant, Hermes stole Apollo’s cattle. To cover his tracks, he cleverly reversed their hooves and hid them, eventually returning the cattle to Apollo in exchange for the lyre."
+        },
+        {
+          "title": "The Delivery of the Message to Persephone",
+          "summary": "Hermes was sent by Zeus to deliver the message to Persephone in the underworld, informing her that she would spend part of the year with Hades and part with Demeter."
+        },
+        {
+          "title": "The Role in the Iliad",
+          "summary": "In the Iliad, Hermes plays a key role in guiding the souls of the dead to the underworld and helps various heroes, such as Odysseus, on their journeys."
+        }
+      ],
+      "relationships": {
+        "spouse": "None (Hermes is often seen as a free spirit, with many lovers)",
+        "siblings": [
+          "Ares",
+          "Athena",
+          "Apollo",
+          "Artemis",
+          "Dionysus",
+          "Hercules (Heracles)"
+        ],
+        "children": ["Pan", "Hermaphroditus", "Autolycus"]
+      }
+    },
+    {
+      "name": "Hestia",
+      "type": "Goddess",
+      "domain": "Hearth and Home",
+      "title": "Goddess of the Hearth",
+      "parentage": {
+        "father": "Cronus",
+        "mother": "Rhea"
+      },
+      "symbols": ["Hearth", "Flame", "Kettle"],
+      "associatedAnimals": ["Donkey", "Pig"],
+      "description": "Hestia is the goddess of the hearth, home, and family. As the goddess who oversees domestic life, she ensures the warmth and stability of the home. Hestia is known for her calm and peaceful nature and is often regarded as the protector of the home and its rituals. She is one of the original Olympian gods, though she remains somewhat distant from the conflicts and drama that involve other gods.",
+      "notableMyths": [
+        {
+          "title": "The Withdrawal from Olympus",
+          "summary": "Hestia voluntarily gave up her seat on the Olympian council to allow Dionysus to join, choosing to remain a peaceful figure and focusing on her duties at the hearth."
+        },
+        {
+          "title": "The Protection of the Home",
+          "summary": "Hestia’s primary role was the protection of the home. She was honored at the beginning of every meal and before every new fire was lit in the household."
+        },
+        {
+          "title": "The Virgin Goddess",
+          "summary": "Hestia is one of the three virgin goddesses (along with Athena and Artemis) and chose to remain celibate and independent throughout her existence."
+        }
+      ],
+      "relationships": {
+        "spouse": "None (Virgin Goddess)",
+        "siblings": ["Zeus", "Hera", "Poseidon", "Demeter", "Hades"],
+        "children": "None"
+      }
+    },
+    {
+      "name": "Dionysus",
+      "type": "God",
+      "domain": "Wine, Pleasure, and Festivities",
+      "title": "God of Wine",
+      "parentage": {
+        "father": "Zeus",
+        "mother": "Semele"
+      },
+      "symbols": ["Grapevine", "Thyrsus", "Leopard Skin"],
+      "associatedAnimals": ["Panther", "Tiger", "Goat"],
+      "description": "Dionysus is the god of wine, pleasure, festivity, and ecstasy. Known for his role in bringing joy and revelry, he is also associated with madness and the freeing of inhibitions. Dionysus is a god of transformation, who can bring both joy and chaos. He is revered for his ability to inspire creativity and abandon, particularly through the consumption of wine and the performance of rituals.",
+      "notableMyths": [
+        {
+          "title": "The Birth of Dionysus",
+          "summary": "Dionysus was born after his mother, Semele, was destroyed by Zeus’s lightning bolt. Zeus rescued the unborn Dionysus from her womb and sewed him into his own thigh until he was ready to be born."
+        },
+        {
+          "title": "The Madness of King Pentheus",
+          "summary": "King Pentheus of Thebes rejected Dionysus's divinity and refused to honor him. In retaliation, Dionysus drove him mad, and Pentheus was torn apart by his own mother and aunts during a bacchic frenzy."
+        },
+        {
+          "title": "The Journey to the Underworld",
+          "summary": "Dionysus descended into the Underworld to rescue his mother, Semele, from her afterlife. His ability to move freely between the mortal and divine realms was a sign of his unique powers."
+        }
+      ],
+      "relationships": {
+        "spouse": "Ariadne",
+        "siblings": [
+          "Apollo",
+          "Artemis",
+          "Athena",
+          "Ares",
+          "Hermes",
+          "Hercules (Heracles)"
+        ],
+        "children": ["Priapus", "Oenopion"]
+      }
+    },
+    {
+      "name": "Chaos",
+      "type": "Primordial Deity",
+      "domain": "Void and the Origin of All Existence",
+      "title": "The Void",
+      "parentage": "None (Chaos is considered the first of all entities)",
+      "symbols": ["Empty Space", "Swirling Darkness"],
+      "associatedAnimals": "None",
+      "description": "Chaos is the primordial deity that represents the void and the emptiness from which all existence emerged. In Greek mythology, Chaos is often described as the very first being, the origin of everything, from which the first gods, earth, and sky were born. Chaos is not typically depicted as a personified entity but rather as an abstract concept of endless potential and disorder.",
+      "notableMyths": [
+        {
+          "title": "The Creation of the Universe",
+          "summary": "Chaos existed before everything else. From it, the first gods emerged, including Gaia (Earth), Tartarus (the Underworld), and Eros (Love). The birth of these deities marked the beginning of the world and all creation."
+        }
+      ],
+      "relationships": {
+        "spouse": "None (Chaos is considered to be self-existent and not involved in relationships)",
+        "siblings": "None (Chaos is the first entity)",
+        "children": [
+          "Gaia (Earth)",
+          "Tartarus",
+          "Eros",
+          "Nyx (Night)",
+          "Erebos (Darkness)"
+        ]
+      }
+    },
+    {
+      "name": "Gaia",
+      "type": "Primordial Deity",
+      "domain": "Earth and Life",
+      "title": "Mother of All Life",
+      "parentage": "None (Gaia is considered one of the first primordial deities born from Chaos)",
+      "symbols": ["Earth", "Tree", "Flowers"],
+      "associatedAnimals": ["Snake", "Horse", "Lion"],
+      "description": "Gaia is the primordial goddess of the Earth and is considered the mother of all life. She represents the fertile and nurturing aspects of the planet and the natural world. Gaia is one of the first beings to emerge from Chaos, and from her, the sky, seas, and all living creatures were created. As the personification of the Earth, she plays a significant role in many myths, including the birth of the Titans and the creation of the first generation of gods.",
+      "notableMyths": [
+        {
+          "title": "The Birth of the Titans",
+          "summary": "Gaia gave birth to the Titans, including Cronus, Rhea, and Oceanus, without the involvement of a mate. She is the mother of these powerful deities who would later become central figures in Greek mythology."
+        },
+        {
+          "title": "Gaia and Uranus",
+          "summary": "Gaia married Uranus, the sky, and together they produced the first generations of gods, including the Titans. However, Uranus became a tyrant and was overthrown by his son, Cronus, at Gaia's instigation."
+        },
+        {
+          "title": "Gaia's Role in the Gigantomachy",
+          "summary": "In the Gigantomachy, a war between the Giants and the Olympian gods, Gaia played a significant role in aiding the Giants, seeking to avenge the defeat of the Titans by the Olympians."
+        }
+      ],
+      "relationships": {
+        "spouse": "Uranus",
+        "siblings": "None (Gaia is one of the first primordial deities)",
+        "children": ["Titans", "Cyclopes", "Hecatoncheires"]
+      }
+    },
+    {
+      "name": "Uranus",
+      "type": "Primordial Deity",
+      "domain": "Sky",
+      "title": "Father of the Titans",
+      "parentage": "None (Uranus is considered one of the first primordial deities born from Chaos)",
+      "symbols": ["Sky", "Stars", "Heavens"],
+      "associatedAnimals": "None",
+      "description": "Uranus is the primordial god of the sky and the personification of the heavens. He is one of the first deities to emerge from Chaos and is the father of the Titans, who play a major role in Greek mythology. Uranus is often depicted as a vast, cosmic figure who represents the infinite sky. His rule was marked by tyranny, leading to his eventual overthrow by his son, Cronus.",
+      "notableMyths": [
+        {
+          "title": "The Birth of the Titans",
+          "summary": "Uranus and Gaia, the Earth, produced the first generation of gods, the Titans, including Cronus, Rhea, and Oceanus. These beings would go on to shape the course of mythological history."
+        },
+        {
+          "title": "The Overthrow by Cronus",
+          "summary": "Uranus, fearing the power of his children, imprisoned the Titans inside Gaia. In retaliation, Gaia conspired with her son Cronus, who castrated Uranus, overthrowing him and releasing the Titans."
+        },
+        {
+          "title": "Uranus's Legacy",
+          "summary": "Uranus’s severed genitals were thrown into the sea, where they gave rise to the goddess Aphrodite. Despite his downfall, Uranus’s legacy continued through his children, the Titans and later the Olympian gods."
+        }
+      ],
+      "relationships": {
+        "spouse": "Gaia",
+        "siblings": "None (Uranus is one of the first primordial deities)",
+        "children": ["Titans", "Cyclopes", "Hecatoncheires"]
+      }
+    },
+    {
+      "name": "Nyx",
+      "type": "Primordial Deity",
+      "domain": "Night",
+      "title": "Goddess of the Night",
+      "parentage": "None (Nyx is considered one of the first primordial deities born from Chaos)",
+      "symbols": ["Darkness", "Stars", "Moon"],
+      "associatedAnimals": ["Owl", "Bat"],
+      "description": "Nyx is the primordial goddess of the night, embodying the dark and mysterious aspects of the night. She is a powerful figure in Greek mythology, often seen as a force of immense power and influence, rivaled only by Chaos and Gaia. Nyx gave birth to several important deities, including Hypnos (Sleep) and Thanatos (Death), and played a crucial role in many myths concerning the cosmos and the underworld.",
+      "notableMyths": [
+        {
+          "title": "The Birth of Hypnos and Thanatos",
+          "summary": "Nyx gave birth to Hypnos, the god of sleep, and Thanatos, the god of death, without the involvement of a male counterpart. She is also the mother of other deities related to darkness and death, such as the Moirai (Fates)."
+        },
+        {
+          "title": "Nyx's Influence in the Underworld",
+          "summary": "Nyx held considerable power in the Underworld. She was one of the few deities that even Zeus feared, and her presence was felt throughout the realm of shadows and the afterlife."
+        },
+        {
+          "title": "The Embrace of Nyx",
+          "summary": "In some myths, Nyx is depicted as a figure of great beauty and power, bringing a calming and eternal embrace to the world during the night. Her mysterious nature made her a revered and awe-inspiring goddess."
+        }
+      ],
+      "relationships": {
+        "spouse": "Erebos (Darkness)",
+        "siblings": "None (Nyx is one of the first primordial deities)",
+        "children": [
+          "Hypnos",
+          "Thanatos",
+          "Moirai (Fates)",
+          "Nemesis",
+          "Hecate"
+        ]
+      }
+    },
+    {
+      "name": "Erebus",
+      "type": "Primordial Deity",
+      "domain": "Darkness",
+      "title": "God of Darkness",
+      "parentage": "None (Erebus is considered one of the first primordial deities born from Chaos)",
+      "symbols": ["Darkness", "Shadows", "Gloom"],
+      "associatedAnimals": "None",
+      "description": "Erebus is the primordial god of darkness, embodying the deep shadows and gloom that reside in the universe. He is often depicted as a powerful, all-encompassing force of night and darkness, controlling the realms of shadows. Erebus, like Nyx, is a fundamental figure in the early creation of the world, and his presence is tied to the obscurity and mystery of the unseen and unknown.",
+      "notableMyths": [
+        {
+          "title": "The Birth of Erebus",
+          "summary": "Erebus emerged from Chaos as one of the first primordial deities. Alongside Nyx, he helped form the early foundation of the world and gave birth to key gods associated with darkness and death."
+        },
+        {
+          "title": "The Union of Erebus and Nyx",
+          "summary": "Erebus and Nyx, as the embodiments of darkness and night, joined together to produce several other primordial deities, such as the Fates and Death, continuing the line of shadow-related gods."
+        },
+        {
+          "title": "Erebus's Role in the Underworld",
+          "summary": "Erebus plays an essential role in the Greek Underworld. He is considered one of the dark regions where souls pass through after death, representing the eternal and oppressive darkness that surrounds the souls."
+        }
+      ],
+      "relationships": {
+        "spouse": "Nyx (Night)",
+        "siblings": "None (Erebus is one of the first primordial deities)",
+        "children": [
+          "Aether (Light)",
+          "Hemera (Day)",
+          "Moirai (Fates)",
+          "Thanatos (Death)",
+          "Hypnos (Sleep)"
+        ]
+      }
+    },
+    {
+      "name": "Tartarus",
+      "type": "Primordial Deity",
+      "domain": "Abyss and the Deepest Pit of the Underworld",
+      "title": "The Abyss",
+      "parentage": "None (Tartarus is considered one of the first primordial deities born from Chaos)",
+      "symbols": ["Abyss", "Pit", "Chains"],
+      "associatedAnimals": "None",
+      "description": "Tartarus is the primordial god of the abyss and the deepest part of the Underworld. In Greek mythology, Tartarus represents both a place and a deity. As a place, it is the darkest, most desolate part of the Underworld, far deeper than Hades, and is often portrayed as a dungeon of torment. As a deity, Tartarus embodies this abyssal region and holds the power to imprison and punish the most dangerous entities, such as the Titans. He is a powerful and somewhat foreboding figure in Greek myth, representing the dark, chaotic forces of the cosmos.",
+      "notableMyths": [
+        {
+          "title": "The Imprisonment of the Titans",
+          "summary": "After their defeat by the Olympian gods, the Titans were cast into Tartarus, where they were imprisoned for eternity. Tartarus served as their final resting place, a prison without escape."
+        },
+        {
+          "title": "Tartarus and the Olympians",
+          "summary": "Tartarus is frequently associated with the Olympian gods, particularly in their battles with the Titans. The Olympians used Tartarus as a place of punishment and containment, ensuring that their enemies would never escape."
+        },
+        {
+          "title": "Tartarus’s Role in Greek Cosmology",
+          "summary": "In Greek cosmology, Tartarus is not only a place of punishment but also a region that existed alongside Earth, the Underworld, and the heavens. It is an essential part of the structure of the cosmos."
+        }
+      ],
+      "relationships": {
+        "spouse": "Gaia (Earth)",
+        "siblings": "None (Tartarus is one of the first primordial deities)",
+        "children": ["Typhon", "Echidna"]
+      }
+    },
+    {
+      "name": "Eros",
+      "type": "Primordial Deity",
+      "domain": "Love and Attraction",
+      "title": "God of Love",
+      "parentage": "None (Eros is considered one of the first primordial deities, sometimes said to be born from Chaos)",
+      "symbols": ["Bow and Arrow", "Dove", "Rose"],
+      "associatedAnimals": ["Dove", "Swan", "Pigeon"],
+      "description": "Eros is the primordial god of love, desire, and attraction in Greek mythology. He represents the force of attraction that binds the universe, drawing beings together. Eros is often depicted as a young, winged figure who wields a bow and arrow, capable of making anyone fall in love by striking them with his magical arrows. As one of the most powerful primordial forces, Eros is seen as a key figure in the creation and maintenance of relationships and life itself.",
+      "notableMyths": [
+        {
+          "title": "The Birth of Eros",
+          "summary": "In some myths, Eros is said to have emerged from Chaos, representing the first stirring of love in the universe. In other versions, he is the son of Aphrodite and Ares, though his origins as a primordial force tie him to the very essence of creation."
+        },
+        {
+          "title": "Eros and Psyche",
+          "summary": "One of the most famous myths involving Eros is his love story with Psyche, a mortal woman. After various trials, Psyche is granted immortality, and the couple is united in marriage, symbolizing the triumph of love."
+        },
+        {
+          "title": "Eros's Influence in Greek Mythology",
+          "summary": "Eros plays a critical role in numerous myths, including the relationships between gods and mortals, shaping the fate of individuals through love and desire. His power transcends all forms of life and is one of the fundamental forces in the universe."
+        }
+      ],
+      "relationships": {
+        "spouse": "None (Eros is typically not associated with a spouse in early myths, though he is often said to have married Psyche in later versions)",
+        "siblings": "None (Eros is a primordial deity with no known siblings in the earliest myths)",
+        "children": ["Hedone (Pleasure)"]
+      }
+    },
+    {
+      "name": "Cronus",
+      "type": "Titan",
+      "domain": "Time, Harvest, and Kingship",
+      "title": "Leader of the Titans",
+      "parentage": {
+        "father": "Uranus",
+        "mother": "Gaia"
+      },
+      "symbols": ["Sickle", "Cornucopia", "Serpent"],
+      "associatedAnimals": ["Horse", "Serpent"],
+      "description": "Cronus is the leader of the Titans and the god of time, harvest, and kingship. In Greek mythology, Cronus was one of the most powerful of the Titans and ruled the cosmos during the Golden Age. However, fearing that one of his children would overthrow him, as he had done to his own father, Uranus, Cronus swallowed each of his children at birth. His reign ended when his son Zeus led a revolt against him, ultimately leading to Cronus's defeat and the rise of the Olympian gods.",
+      "notableMyths": [
+        {
+          "title": "The Reign of Cronus",
+          "summary": "Cronus ruled the universe during the Golden Age, a time of peace and prosperity. His reign was marked by agricultural abundance, but his fear of being overthrown led him to swallow his children."
+        },
+        {
+          "title": "The Overthrow of Uranus",
+          "summary": "Cronus overthrew his father, Uranus, at the urging of his mother Gaia. Using a sickle, he castrated Uranus, casting him from the heavens and taking control of the cosmos."
+        },
+        {
+          "title": "The Defeat by Zeus",
+          "summary": "Cronus's reign ended when Zeus, his youngest son, escaped from his stomach and led the Olympian gods in a war against the Titans. After a fierce battle, Cronus was overthrown, and Zeus became the new ruler of the gods."
+        }
+      ],
+      "relationships": {
+        "spouse": "Rhea",
+        "siblings": [
+          "Oceanus",
+          "Hyperion",
+          "Coeus",
+          "Crius",
+          "Iapetus",
+          "Themis",
+          "Mnemosyne",
+          "Phoebe",
+          "Tethys",
+          "Rhea"
+        ],
+        "children": ["Hestia", "Demeter", "Hera", "Hades", "Poseidon", "Zeus"]
+      }
+    },
+    {
+      "name": "Rhea",
+      "type": "Titan",
+      "domain": "Motherhood, Fertility, and the Earth",
+      "title": "Mother of the Olympians",
+      "parentage": {
+        "father": "Uranus",
+        "mother": "Gaia"
+      },
+      "symbols": ["Lion", "Chariot", "Crown"],
+      "associatedAnimals": ["Lion", "Bear"],
+      "description": "Rhea is a Titaness and the mother of the Olympian gods. As the goddess of motherhood, fertility, and the earth, she played a pivotal role in nurturing the future rulers of the world. Rhea is known for her compassion and protective nature, especially when it came to her children. In the myth of Cronus, Rhea took measures to protect her children from the wrath of her husband, who feared they would overthrow him. Her most famous act of defiance was when she saved her youngest son, Zeus, from Cronus’s attempt to swallow him.",
+      "notableMyths": [
+        {
+          "title": "The Birth of the Olympians",
+          "summary": "Rhea gave birth to several of the Olympian gods, including Hestia, Demeter, Hera, Hades, Poseidon, and Zeus. Her children were destined to overthrow the Titans, which Rhea herself had a hand in facilitating."
+        },
+        {
+          "title": "Rhea and Cronus",
+          "summary": "When Cronus began swallowing each of their children to prevent them from usurping him, Rhea secretly saved Zeus by hiding him in a cave on Crete and giving Cronus a rock wrapped in swaddling clothes to swallow instead."
+        },
+        {
+          "title": "The Revolt of the Olympians",
+          "summary": "Rhea supported her children during the Titanomachy, the war between the Olympians and the Titans. After Zeus grew to adulthood, Rhea aided him in leading the Olympian gods to victory and the eventual overthrow of Cronus."
+        }
+      ],
+      "relationships": {
+        "spouse": "Cronus",
+        "siblings": [
+          "Oceanus",
+          "Hyperion",
+          "Coeus",
+          "Crius",
+          "Iapetus",
+          "Themis",
+          "Mnemosyne",
+          "Phoebe",
+          "Tethys",
+          "Cronus"
+        ],
+        "children": ["Hestia", "Demeter", "Hera", "Hades", "Poseidon", "Zeus"]
+      }
+    },
+    {
+      "name": "Oceanus",
+      "type": "Titan",
+      "domain": "The Ocean and Freshwater",
+      "title": "Titan of the Ocean",
+      "parentage": {
+        "father": "Uranus",
+        "mother": "Gaia"
+      },
+      "symbols": ["Ocean", "Water", "Waves"],
+      "associatedAnimals": ["Fish", "Sea Serpents"],
+      "description": "Oceanus is the Titan god of the ocean and the vast, encircling river that was believed to flow around the world in ancient Greek mythology. He was one of the oldest and most powerful of the Titans, embodying the primordial forces of water and the sea. Oceanus was often depicted as a great river or a man with the tail of a serpent. He is not typically involved in the battles of the Olympian gods but is rather seen as a peaceful and benevolent figure, a protector of the seas and freshwater bodies.",
+      "notableMyths": [
+        {
+          "title": "Oceanus and the River of the World",
+          "summary": "Oceanus was believed to be the source of all bodies of water on Earth. The Greeks imagined the ocean as a great river that encircled the world, and Oceanus was its ruler."
+        },
+        {
+          "title": "Oceanus's Role in the Titanomachy",
+          "summary": "Oceanus did not participate in the Titanomachy, the war between the Olympian gods and the Titans, choosing instead to remain neutral. He did not fight alongside Cronus and the Titans, nor did he join Zeus and the Olympians."
+        },
+        {
+          "title": "Oceanus and Tethys",
+          "summary": "Oceanus married his sister Tethys, and together they were the parents of the river gods and many other divine beings associated with water. Their union symbolized the primordial forces of nature."
+        }
+      ],
+      "relationships": {
+        "spouse": "Tethys",
+        "siblings": [
+          "Uranus",
+          "Gaia",
+          "Cronus",
+          "Rhea",
+          "Hyperion",
+          "Coeus",
+          "Crius",
+          "Iapetus",
+          "Themis",
+          "Mnemosyne",
+          "Phoebe",
+          "Tethys"
+        ],
+        "children": ["The River Gods", "Oceanids (Nymphs of the Ocean)"]
+      }
+    },
+    {
+      "name": "Tethys",
+      "type": "Titaness",
+      "domain": "Freshwater and the Seas",
+      "title": "Goddess of Freshwater",
+      "parentage": {
+        "father": "Uranus",
+        "mother": "Gaia"
+      },
+      "symbols": ["Water", "Rivers", "Nymphs"],
+      "associatedAnimals": ["Fish", "Dolphins", "Sea Creatures"],
+      "description": "Tethys is the Titaness and goddess of freshwater, rivers, and the sea in Greek mythology. She is closely associated with the nourishing and life-giving properties of fresh water, which flows through the world in rivers and streams. Tethys is also the wife of Oceanus, with whom she bore many children, including the River Gods and the Oceanids (nymphs of the ocean). Tethys, like her husband, was a peaceful figure, often regarded as one of the benevolent Titans who nurtured life through water.",
+      "notableMyths": [
+        {
+          "title": "Tethys and Oceanus",
+          "summary": "Tethys married her brother Oceanus, and together they ruled over the freshwater sources of the Earth. Their union produced a large number of offspring, including river gods and nymphs."
+        },
+        {
+          "title": "The Oceanids",
+          "summary": "Tethys and Oceanus are the parents of the Oceanids, the nymphs of freshwater bodies like rivers, lakes, and streams. These nymphs were believed to play a role in maintaining the balance of the world's waters."
+        },
+        {
+          "title": "Tethys’s Role in Greek Cosmology",
+          "summary": "As the goddess of freshwater, Tethys represented the abundant and nurturing qualities of rivers and lakes. She was seen as a source of life and a symbol of the Earth's fertility."
+        }
+      ],
+      "relationships": {
+        "spouse": "Oceanus",
+        "siblings": [
+          "Uranus",
+          "Gaia",
+          "Cronus",
+          "Rhea",
+          "Hyperion",
+          "Coeus",
+          "Crius",
+          "Iapetus",
+          "Themis",
+          "Mnemosyne",
+          "Phoebe"
+        ],
+        "children": ["The River Gods", "Oceanids (Nymphs of Freshwater)"]
+      }
+    },
+    {
+      "name": "Hyperion",
+      "type": "Titan",
+      "domain": "Light, the Sun, and Heavenly Bodies",
+      "title": "Titan of Light",
+      "parentage": {
+        "father": "Uranus",
+        "mother": "Gaia"
+      },
+      "symbols": ["Sun", "Light", "Radiance"],
+      "associatedAnimals": ["Phoenix", "Eagle"],
+      "description": "Hyperion is one of the Titans and the personification of light. He is associated with the sun, the heavenly bodies, and the radiance of the sky. Hyperion is considered one of the most powerful Titans and is often described as the embodiment of the light that illuminates the world. As the father of Helios (the Sun), Selene (the Moon), and Eos (the Dawn), Hyperion’s influence extends to the cycles of day and night. He played an important role in the early cosmogony, representing the beauty and brilliance of light in the cosmos.",
+      "notableMyths": [
+        {
+          "title": "Hyperion and the Sun",
+          "summary": "Hyperion is the father of Helios, the Sun god. In early myths, Hyperion was sometimes depicted as the one who drove the chariot of the Sun across the sky before Helios took over the role."
+        },
+        {
+          "title": "Hyperion’s Offspring",
+          "summary": "Hyperion's children—Helios (the Sun), Selene (the Moon), and Eos (the Dawn)—are central figures in Greek mythology. These deities were responsible for the movements of the celestial bodies, marking the passage of time."
+        },
+        {
+          "title": "Hyperion in the Titanomachy",
+          "summary": "Hyperion, like many other Titans, did not take part in the Titanomachy, the war between the Olympian gods and the Titans. He was not as actively involved as other Titans, though his association with light and the celestial spheres made him an important figure."
+        }
+      ],
+      "relationships": {
+        "spouse": "Theia",
+        "siblings": [
+          "Uranus",
+          "Gaia",
+          "Cronus",
+          "Rhea",
+          "Oceanus",
+          "Coeus",
+          "Crius",
+          "Iapetus",
+          "Themis",
+          "Mnemosyne",
+          "Phoebe"
+        ],
+        "children": ["Helios", "Selene", "Eos"]
+      }
+    },
+    {
+      "name": "Theia",
+      "type": "Titaness",
+      "domain": "Sight, the Shining Sky, and Precious Metals",
+      "title": "Titaness of Sight and the Shining Sky",
+      "parentage": {
+        "father": "Uranus",
+        "mother": "Gaia"
+      },
+      "symbols": ["Eyes", "Radiance", "Gems"],
+      "associatedAnimals": ["Phoenix", "Eagle"],
+      "description": "Theia is a Titaness associated with the shining sky, sight, and the radiance of precious metals and gems. She is often considered a personification of the divine light that illuminates the world. Theia’s influence extended to sight and vision, symbolizing the light that allows all creatures to see. She is the mother of the Sun god Helios, the Moon goddess Selene, and Eos, the goddess of the Dawn, all of whom personify the celestial lights that govern the passage of time and the daily cycles of the Earth.",
+      "notableMyths": [
+        {
+          "title": "Theia and Her Offspring",
+          "summary": "Theia's union with Hyperion produced the celestial deities: Helios (the Sun), Selene (the Moon), and Eos (the Dawn). These children represented the cycle of day and night, with their radiant appearances marking the passage of time."
+        },
+        {
+          "title": "The Gift of Sight",
+          "summary": "As the goddess of sight, Theia’s influence was believed to be the source of all clear vision, both literal and metaphorical. She was thought to bestow the ability to see the truth and the divine, granting wisdom and clarity."
+        },
+        {
+          "title": "The Shining Sky",
+          "summary": "Theia’s connection to the shining sky also associates her with the precious metals and gemstones of the Earth, which were thought to reflect the divine light of the heavens."
+        }
+      ],
+      "relationships": {
+        "spouse": "Hyperion",
+        "siblings": [
+          "Uranus",
+          "Gaia",
+          "Cronus",
+          "Rhea",
+          "Oceanus",
+          "Coeus",
+          "Crius",
+          "Iapetus",
+          "Themis",
+          "Mnemosyne",
+          "Phoebe"
+        ],
+        "children": ["Helios", "Selene", "Eos"]
+      }
+    },
+    {
+      "name": "Iapetus",
+      "type": "Titan",
+      "domain": "Mortality, Craftsmanship, and Mankind",
+      "title": "Titan of Mortality and Craftsmanship",
+      "parentage": {
+        "father": "Uranus",
+        "mother": "Gaia"
+      },
+      "symbols": ["Hammer", "Anvil", "Mortality"],
+      "associatedAnimals": ["Ox", "Wolf"],
+      "description": "Iapetus is a Titan associated with mortality, craftsmanship, and the mortal aspect of human beings. Known for his role in the creation of mankind, Iapetus was linked to the limitations of human life and the craftsmanship of early tools. He represents the capacity for skill and creation in the face of death and impermanence. Iapetus is often regarded as a father figure to the human race, as his children (Prometheus, Epimetheus, Atlas, and Menoetius) played crucial roles in the development of humanity, from its creation to its downfall.",
+      "notableMyths": [
+        {
+          "title": "The Creation of Mankind",
+          "summary": "Iapetus, along with his son Prometheus, is credited with shaping mankind from clay and giving them the ability to use tools and skills, marking a significant moment in Greek mythology regarding the human race’s origin."
+        },
+        {
+          "title": "Prometheus and Epimetheus",
+          "summary": "Iapetus's sons, Prometheus and Epimetheus, played important roles in the creation and early development of mankind. Prometheus famously gave fire to humans, while Epimetheus provided them with the gifts of various animals."
+        },
+        {
+          "title": "The Punishment of Atlas",
+          "summary": "Iapetus's son Atlas was condemned to carry the weight of the heavens on his shoulders, a punishment he suffered after the Titanomachy, symbolizing the heavy burden that immortality and mortality alike can bring."
+        }
+      ],
+      "relationships": {
+        "spouse": "Clymene",
+        "siblings": [
+          "Uranus",
+          "Gaia",
+          "Cronus",
+          "Rhea",
+          "Oceanus",
+          "Coeus",
+          "Crius",
+          "Hyperion",
+          "Themis",
+          "Mnemosyne",
+          "Phoebe"
+        ],
+        "children": ["Prometheus", "Epimetheus", "Atlas", "Menoetius"]
+      }
+    },
+    {
+      "name": "Coeus",
+      "type": "Titan",
+      "domain": "Intelligence, Rational Thought, and the Axis of Heaven",
+      "title": "Titan of Intelligence",
+      "parentage": {
+        "father": "Uranus",
+        "mother": "Gaia"
+      },
+      "symbols": ["Thought", "Knowledge", "Starry Sky"],
+      "associatedAnimals": ["Owl", "Eagle"],
+      "description": "Coeus is a Titan associated with intelligence, rational thought, and the intellectual capacity of the cosmos. He is known for his vast intellect and was considered the embodiment of the mind and the reasoning aspects of the universe. Coeus was also linked to the axis of the heavens, as he was thought to represent the Northern Pole and the center of the universe. His domain includes the pursuit of knowledge and wisdom, and his influence is often seen in the intellectual pursuits of both gods and humans.",
+      "notableMyths": [
+        {
+          "title": "Coeus and the Titanomachy",
+          "summary": "Coeus, like most of the Titans, fought in the Titanomachy against the Olympians. After the defeat of the Titans, Coeus was imprisoned in Tartarus, but his intelligence and strategic mind were regarded as vital during the early cosmogony."
+        },
+        {
+          "title": "The Axis of the Cosmos",
+          "summary": "Coeus was believed to embody the axis around which the heavens and the earth revolved, representing a crucial force in the structure and order of the universe."
+        },
+        {
+          "title": "Coeus's Children",
+          "summary": "Coeus is the father of Leto, the mother of Apollo and Artemis. His intellect and wisdom were passed down through his daughter, who later gave birth to the twin deities associated with the arts and the hunt."
+        }
+      ],
+      "relationships": {
+        "spouse": "Phoebe",
+        "siblings": [
+          "Uranus",
+          "Gaia",
+          "Cronus",
+          "Rhea",
+          "Oceanus",
+          "Hyperion",
+          "Crius",
+          "Iapetus",
+          "Themis",
+          "Mnemosyne",
+          "Tethys"
+        ],
+        "children": ["Leto"]
+      }
+    },
+    {
+      "name": "Phoebe",
+      "type": "Titaness",
+      "domain": "Prophecy, Intellect, and the Moon",
+      "title": "Titaness of Prophecy and Intellect",
+      "parentage": {
+        "father": "Uranus",
+        "mother": "Gaia"
+      },
+      "symbols": ["Moon", "Oracle", "Wisdom"],
+      "associatedAnimals": ["Owl", "Swan"],
+      "description": "Phoebe is a Titaness associated with prophecy, intellect, and the moon. Known for her wisdom and prophetic abilities, Phoebe was one of the most revered deities for her connection to foresight and knowledge. Her influence extended to the realm of the divine oracles and the intellectual pursuit of truth. As the grandmother of Apollo and Artemis, Phoebe’s gifts of prophecy were passed on through her descendants, who played important roles in the guidance of gods and mortals alike. She is also linked to the moon, often symbolizing the lunar cycles.",
+      "notableMyths": [
+        {
+          "title": "Phoebe and the Oracle of Delphi",
+          "summary": "Phoebe is associated with the Oracle of Delphi, an ancient site of prophecy. It was said that Phoebe once held dominion over the Oracle before passing it to her granddaughter, Apollo, who became its most famous godly occupant."
+        },
+        {
+          "title": "Phoebe's Role as the Lunar Titaness",
+          "summary": "Phoebe is sometimes linked to the moon, representing the calm and reflective nature of the lunar cycle. Her connection to the night sky is a part of her broader role as a figure of wisdom and foresight."
+        },
+        {
+          "title": "Phoebe’s Children",
+          "summary": "Phoebe is the mother of Leto, who would later give birth to Apollo and Artemis. Her daughter Leto inherited Phoebe’s gift of prophecy, which was passed on through her powerful children."
+        }
+      ],
+      "relationships": {
+        "spouse": "Coeus",
+        "siblings": [
+          "Uranus",
+          "Gaia",
+          "Cronus",
+          "Rhea",
+          "Oceanus",
+          "Hyperion",
+          "Crius",
+          "Iapetus",
+          "Themis",
+          "Mnemosyne",
+          "Tethys"
+        ],
+        "children": ["Leto"]
+      }
+    },
+    {
+      "name": "Mnemosyne",
+      "type": "Titaness",
+      "domain": "Memory, Language, and the Arts",
+      "title": "Titaness of Memory and Language",
+      "parentage": {
+        "father": "Uranus",
+        "mother": "Gaia"
+      },
+      "symbols": ["Scroll", "Books", "Lips"],
+      "associatedAnimals": ["Dove", "Swan"],
+      "description": "Mnemosyne is a Titaness associated with memory, language, and the arts. As the personification of memory, Mnemosyne held the power to preserve knowledge and enable communication through language. She was regarded as the mother of the Muses, the nine goddesses of inspiration for the arts, who were believed to embody the various forms of human creative expression. Mnemosyne’s influence was crucial in the preservation of history, culture, and intellectual traditions, as memory serves as the foundation for both oral and written language.",
+      "notableMyths": [
+        {
+          "title": "Mnemosyne and the Muses",
+          "summary": "Mnemosyne is most famously known as the mother of the Muses, who were fathered by Zeus. Each Muse represents a different aspect of the arts and sciences, including music, poetry, history, and dance. The Muses were revered for their ability to inspire creators and scholars."
+        },
+        {
+          "title": "Mnemosyne’s Role in Language",
+          "summary": "As the Titaness of memory and language, Mnemosyne is often seen as the divine force behind the development of human speech, language, and the preservation of stories across generations. She is the personification of the ability to recall and articulate thoughts, ensuring that the wisdom of the past is passed on."
+        },
+        {
+          "title": "The Secret of Memory",
+          "summary": "Mnemosyne is said to have had the ability to reveal the past through her divine memory, offering insight into lost knowledge and the power of recollection. In some versions of the myth, she would share her knowledge with those who sought it, particularly poets and philosophers."
+        }
+      ],
+      "relationships": {
+        "spouse": "Zeus",
+        "siblings": [
+          "Uranus",
+          "Gaia",
+          "Cronus",
+          "Rhea",
+          "Oceanus",
+          "Hyperion",
+          "Crius",
+          "Iapetus",
+          "Themis",
+          "Phoebe",
+          "Tethys"
+        ],
+        "children": [
+          "The Muses (Calliope, Clio, Erato, Euterpe, Melpomene, Polyhymnia, Terpsichore, Thalia, Urania)"
+        ]
+      }
+    },
+    {
+      "name": "Themis",
+      "type": "Titaness",
+      "domain": "Justice, Order, and Law",
+      "title": "Titaness of Justice and Order",
+      "parentage": {
+        "father": "Uranus",
+        "mother": "Gaia"
+      },
+      "symbols": ["Scales of Justice", "Sword", "Blindfold"],
+      "associatedAnimals": ["Lion", "Owl"],
+      "description": "Themis is a Titaness associated with justice, order, and law. Revered for her wisdom in governance and fairness, she personifies the concept of divine law and balance. As the embodiment of justice, Themis was often depicted holding the scales of justice, a symbol of fairness and impartiality. She played a crucial role in maintaining cosmic order and ensuring that the divine and mortal realms adhered to their respective laws. Themis is also linked to the concept of divine prophecy, often advising the gods on matters of right and wrong.",
+      "notableMyths": [
+        {
+          "title": "Themis and the Oracle of Delphi",
+          "summary": "Before Phoebe and Apollo, Themis was said to have presided over the Oracle of Delphi, offering prophecies and guidance to those who sought it. Her judgments were considered to be divinely inspired, ensuring that her decisions were always in harmony with cosmic order."
+        },
+        {
+          "title": "Themis’s Role in the Titanomachy",
+          "summary": "Although a Titaness, Themis sided with the Olympians during the Titanomachy, the great war between the Titans and the Olympians. Her commitment to justice led her to support the younger gods in their fight for cosmic balance and order."
+        },
+        {
+          "title": "Themis and the Birth of Dike",
+          "summary": "Themis is the mother of Dike, the goddess of justice and moral order. Dike is often depicted as the personification of the ethical aspect of law, ensuring that the moral standards of justice are upheld."
+        }
+      ],
+      "relationships": {
+        "spouse": "Zeus",
+        "siblings": [
+          "Uranus",
+          "Gaia",
+          "Cronus",
+          "Rhea",
+          "Oceanus",
+          "Hyperion",
+          "Crius",
+          "Iapetus",
+          "Mnemosyne",
+          "Phoebe",
+          "Tethys"
+        ],
+        "children": ["Dike", "Eunomia", "Eirene"]
+      }
+    },
+    {
+      "name": "Prometheus",
+      "type": "Titan",
+      "domain": "Creation, Knowledge, and Fire",
+      "title": "Creator of Mankind and Bringer of Fire",
+      "parentage": {
+        "father": "Iapetus",
+        "mother": "Clymene"
+      },
+      "symbols": ["Fire", "Torch", "Clay Figures"],
+      "associatedAnimals": ["Fox", "Crow"],
+      "description": "Prometheus is a Titan known for his intelligence, creativity, and his pivotal role in the creation of mankind. He is best known for stealing fire from the gods and giving it to humanity, enabling humans to advance in civilization. As a symbol of defiance against divine authority, Prometheus is often associated with the pursuit of knowledge, progress, and enlightenment. Despite his punishment by Zeus, he remained a figure of compassion and concern for humanity, striving to aid the mortal race. His story is a powerful myth about the consequences of challenging the gods for the benefit of humankind.",
+      "notableMyths": [
+        {
+          "title": "The Creation of Mankind",
+          "summary": "Prometheus is credited with creating mankind from clay. He breathed life into his creations, giving them form and spirit, and thus creating the human race. His affection for humans led him to defy the gods in order to provide them with fire."
+        },
+        {
+          "title": "The Theft of Fire",
+          "summary": "Prometheus stole fire from Mount Olympus, hiding it in a fennel stalk, and gave it to mankind. This act allowed humanity to develop civilization, but it also led to Zeus's wrath. As punishment, Prometheus was bound to a rock where an eagle ate his liver every day, only for it to regenerate each night."
+        },
+        {
+          "title": "The Punishment and Liberation of Prometheus",
+          "summary": "Prometheus's punishment for defying Zeus was severe, but he was eventually freed by the hero Heracles (Hercules), who slew the eagle and broke the chains that bound him. His story represents both the cost of defying the gods and the eventual triumph of heroism and compassion."
+        }
+      ],
+      "relationships": {
+        "spouse": "Pandora",
+        "siblings": ["Atlas", "Menoetius", "Epimetheus"],
+        "children": ["Deucalion"]
+      }
+    },
+    {
+      "name": "Atlas",
+      "type": "Titan",
+      "domain": "Endurance and Astronomy",
+      "title": "Titan Who Holds the Heavens",
+      "parentage": {
+        "father": "Iapetus",
+        "mother": "Clymene"
+      },
+      "symbols": ["Celestial Sphere", "World on Shoulders"],
+      "associatedAnimals": ["Horse"],
+      "description": "Atlas is a Titan known for his great strength and endurance, famously tasked with holding up the heavens for eternity. His punishment came after the Titanomachy, the war between the Titans and the Olympians, in which he fought on the side of the Titans. After their defeat, Zeus condemned Atlas to stand at the western edge of the Earth and bear the weight of the sky on his shoulders. Atlas is often depicted as carrying a globe or celestial sphere, representing his eternal burden. He is a symbol of resilience and perseverance, embodying the immense weight of responsibility.",
+      "notableMyths": [
+        {
+          "title": "The Punishment of Atlas",
+          "summary": "After the Titanomachy, Atlas was condemned by Zeus to hold up the sky for all eternity as punishment for his role in the rebellion against the Olympians. He stands in the far west, with the sky resting upon his shoulders, a task that he must bear forever."
+        },
+        {
+          "title": "Atlas and Heracles",
+          "summary": "In one of his famous encounters, Atlas was asked by Heracles (Hercules) to temporarily take on the weight of the sky again while Heracles completed one of his Twelve Labors—fetching the golden apples of the Hesperides. Atlas attempted to trick Heracles, but the hero outwitted him, eventually returning to take the burden off Atlas’s shoulders."
+        },
+        {
+          "title": "Atlas and the Hesperides",
+          "summary": "Atlas is also connected to the Hesperides, the nymphs who guarded the golden apples. In some versions of the myth, Atlas’s daughters were entrusted with the apples, and they are said to reside at the edges of the world, near the ocean where Atlas stands."
+        }
+      ],
+      "relationships": {
+        "spouse": "Pleione",
+        "siblings": ["Prometheus", "Epimetheus", "Menoetius"],
+        "children": [
+          "The Pleiades (Alcyone, Maia, Electra, Taygete, Merope, Celaeno, Sterope)"
+        ]
+      }
+    },
+    {
+      "name": "Hades",
+      "type": "Chthonic Deity",
+      "domain": "Underworld, the Dead, and Wealth",
+      "title": "God of the Underworld",
+      "parentage": {
+        "father": "Cronus",
+        "mother": "Rhea"
+      },
+      "symbols": ["Cerberus", "Helmet of Invisibility", "Bident"],
+      "associatedAnimals": ["Cerberus", "Black Rams"],
+      "description": "Hades is the god of the underworld, ruling over the realm of the dead and the afterlife. As one of the Olympian gods, he governs the souls of the departed and ensures that the balance of life and death is maintained. Despite his dark domain, Hades is not considered evil; rather, he is a just ruler who enforces the laws of the underworld. Hades is also associated with wealth, as the earth's riches, such as precious metals, are believed to come from his realm. His infamous helmet, which grants invisibility, and his three-headed dog, Cerberus, are symbols of his power and authority.",
+      "notableMyths": [
+        {
+          "title": "The Abduction of Persephone",
+          "summary": "Hades kidnapped Persephone, the daughter of Demeter, and made her his wife in the underworld. This act caused the grief of Demeter, leading to the creation of the seasons, as Persephone's return to the surface each year marked the start of spring."
+        },
+        {
+          "title": "The Judgment of the Dead",
+          "summary": "Hades is responsible for overseeing the souls of the dead. When a person dies, their soul enters the underworld where it is judged by the three judges—Minos, Rhadamanthus, and Aeacus. Based on the judgment, the soul is sent to the Elysian Fields, the Asphodel Meadows, or Tartarus, depending on their deeds in life."
+        },
+        {
+          "title": "Hades and the Titanomachy",
+          "summary": "Although Hades is not as often depicted in the Titanomachy, he played a crucial role in helping his brothers Zeus and Poseidon overthrow their father, Cronus. In the aftermath of the war, the three brothers divided the realms of the world, with Hades receiving dominion over the underworld."
+        }
+      ],
+      "relationships": {
+        "spouse": "Persephone",
+        "siblings": ["Zeus", "Poseidon", "Hera", "Demeter", "Hestia"],
+        "children": ["Macaria", "Zagreus"]
+      }
+    },
+    {
+      "name": "Persephone",
+      "type": "Goddess",
+      "domain": "Spring, Underworld, and Rebirth",
+      "title": "Queen of the Underworld, Goddess of Spring",
+      "parentage": {
+        "father": "Zeus",
+        "mother": "Demeter"
+      },
+      "symbols": ["Pomegranate", "Torch", "Flowers"],
+      "associatedAnimals": ["Serpents", "Doves"],
+      "description": "Persephone is the goddess of spring and the queen of the underworld. She is the daughter of Zeus and Demeter and is best known for her dual role as both a goddess of fertility and growth, and as the wife of Hades, ruler of the underworld. Persephone's myth is closely tied to the changing seasons, as her annual return to the earth marks the beginning of spring, while her descent to the underworld signifies the arrival of winter. Her story represents cycles of life, death, and rebirth. Persephone is also associated with the pomegranate, symbolizing both life and death.",
+      "notableMyths": [
+        {
+          "title": "The Abduction by Hades",
+          "summary": "Persephone was abducted by Hades, who took her to the underworld to be his wife. Her mother, Demeter, grieved her loss, causing the earth to become barren. Eventually, a compromise was reached, allowing Persephone to spend part of the year with Hades in the underworld and part with her mother on Earth, giving rise to the cycle of seasons."
+        },
+        {
+          "title": "The Pomegranate Seeds",
+          "summary": "While in the underworld, Persephone ate six pomegranate seeds, which bound her to Hades and the underworld for a portion of each year. This act is the reason she must return to the underworld every autumn, marking the onset of winter."
+        },
+        {
+          "title": "Persephone as Queen of the Underworld",
+          "summary": "In the underworld, Persephone rules alongside her husband, Hades, where she is often depicted as a stern yet fair queen, overseeing the souls of the dead. Her reign in the underworld represents her connection to the cycles of death and rebirth."
+        }
+      ],
+      "relationships": {
+        "spouse": "Hades",
+        "siblings": ["Hera", "Hestia", "Poseidon", "Zeus", "Demeter"],
+        "children": ["Melinoe", "Zagreus"]
+      }
+    },
+    {
+      "name": "Thanatos",
+      "type": "God",
+      "domain": "Death",
+      "title": "God of Death",
+      "parentage": {
+        "father": "Nyx",
+        "mother": "Erebus"
+      },
+      "symbols": ["Sword", "Torch", "Wings"],
+      "associatedAnimals": ["Owl", "Vulture"],
+      "description": "Thanatos is the personification of death in Greek mythology, representing the peaceful passing of souls from life to the afterlife. As a chthonic deity, he is often depicted as a figure who guides the souls of the dead to the underworld. Unlike his twin brother Hypnos (god of sleep), Thanatos is not violent but instead gentle, delivering death to those who are fated to die. He is usually depicted as a winged figure carrying a sword or a torch, symbolizing the end of life. Despite his role, Thanatos is not a feared figure in Greek mythology but is seen as a necessary part of the natural order.",
+      "notableMyths": [
+        {
+          "title": "The Death of Sisyphus",
+          "summary": "Thanatos is tasked with capturing Sisyphus and bringing him to the underworld. However, Sisyphus tricks Thanatos and chains him up, causing a temporary halt in death until Ares intervenes and frees Thanatos."
+        },
+        {
+          "title": "Heracles and the Capture of Thanatos",
+          "summary": "In the myth of Heracles, Thanatos is sent to claim the soul of the mortal Eurystheus. However, Heracles defeats Thanatos, preventing him from claiming the soul for a brief time."
+        },
+        {
+          "title": "Thanatos and the End of Life",
+          "summary": "Thanatos is the embodiment of the inevitable end of life, arriving to take those who have reached their destined time. He is often depicted as a quiet, impartial force that comes to claim all mortals."
+        }
+      ],
+      "relationships": {
+        "siblings": ["Hypnos"],
+        "children": []
+      }
+    },
+    {
+      "name": "Hypnos",
+      "type": "God",
+      "domain": "Sleep",
+      "title": "God of Sleep",
+      "parentage": {
+        "father": "Nyx",
+        "mother": "Erebus"
+      },
+      "symbols": ["Poppy", "Drowsy Eyes", "Sandman"],
+      "associatedAnimals": ["Owl", "Bat"],
+      "description": "Hypnos is the personification of sleep in Greek mythology, embodying the peaceful, restful state that allows mortals and gods alike to experience rest. As the twin brother of Thanatos, god of death, Hypnos operates in a more gentle, soothing role, providing respite from the toils of life. Hypnos is often depicted as a calm, dreamy figure who brings about sleep with his gentle touch or through the use of his symbols, such as poppies and sandman imagery. His presence is essential to the balance between wakefulness and rest, maintaining the natural rhythm of life.",
+      "notableMyths": [
+        {
+          "title": "The Slumber of Zeus",
+          "summary": "Hypnos was summoned by Hera to help her defeat Zeus by putting him into a deep sleep. However, Hypnos only put Zeus into a light slumber, ensuring his eventual awakening."
+        },
+        {
+          "title": "Hypnos and the End of Mortals",
+          "summary": "Hypnos is depicted as the peaceful ender of mortal struggles, granting relief from the pains of life through slumber."
+        },
+        {
+          "title": "Hypnos and the Dream World",
+          "summary": "Hypnos has the ability to enter dreams, where he weaves fantastical visions and memories for mortals, creating a world of surreal experiences."
+        }
+      ],
+      "relationships": {
+        "siblings": ["Thanatos"],
+        "children": ["Morpheus", "Phobetor", "Phantasos", "Icelos"]
+      }
+    },
+    {
+      "name": "Hecate",
+      "type": "Goddess",
+      "domain": "Magic, Crossroads, Ghosts",
+      "title": "Goddess of Magic, Witchcraft, and the Underworld",
+      "parentage": {
+        "father": "Perses",
+        "mother": "Asteria"
+      },
+      "symbols": ["Torch", "Key", "Snake", "Crescent Moon"],
+      "associatedAnimals": ["Dog", "Snake", "Horse"],
+      "description": "Hecate is the goddess of magic, witchcraft, ghosts, and crossroads in Greek mythology. She is a powerful, mysterious figure often associated with the night, darkness, and the unseen realms. Hecate has dominion over magic, allowing her to control spells, incantations, and sorcery. She is also linked to the world of spirits and the dead, often portrayed as a guide for souls through the underworld. As a guardian of thresholds, Hecate is associated with crossroads, where decisions are made, and new paths are chosen. Her presence is invoked for protection, transformation, and the casting of spells.",
+      "notableMyths": [
+        {
+          "title": "Hecate and Demeter's Search for Persephone",
+          "summary": "When Persephone was abducted by Hades, Demeter sought Hecate's help. Hecate assisted by guiding Demeter with her torch, using her magical abilities to locate Persephone and help bring her back from the underworld."
+        },
+        {
+          "title": "Hecate and the Witchcraft of Medea",
+          "summary": "Hecate is often invoked in stories involving witchcraft, particularly in the myth of Medea, where the goddess provides magical support for Medea's powers."
+        },
+        {
+          "title": "Hecate and the Souls of the Dead",
+          "summary": "As a goddess of ghosts, Hecate is often associated with spirits and the realm of the dead. She is believed to guide and protect the souls of the deceased as they journey into the afterlife."
+        }
+      ],
+      "relationships": {
+        "spouse": "None",
+        "siblings": [
+          "None (in some versions, she is considered an only child)"
+        ],
+        "children": ["None"]
+      }
+    },
+    {
+      "name": "Eos",
+      "type": "Goddess",
+      "domain": "Dawn",
+      "title": "Goddess of the Dawn",
+      "parentage": {
+        "father": "Hyperion",
+        "mother": "Theia"
+      },
+      "symbols": ["Dawn", "Rose-colored Fingers", "Horses"],
+      "associatedAnimals": ["Horses", "Chariot"],
+      "description": "Eos is the personification of the dawn in Greek mythology. As the goddess of the early morning, she is responsible for ushering in the light of the sun, guiding the chariot of the sun god Helios across the sky. Eos is often depicted as a beautiful woman with wings, her rosy fingers reaching across the horizon as she breaks the night and heralds the arrival of day. Eos is a symbol of renewal, hope, and the cyclical nature of time, bringing light to the world and symbolizing new beginnings.",
+      "notableMyths": [
+        {
+          "title": "The Love Affairs of Eos",
+          "summary": "Eos is known for her romantic entanglements with both gods and mortals. One of her most famous lovers was the Trojan prince Tithonus, whom she granted immortality, but forgot to ask for eternal youth, resulting in his eventual transformation into a withered old man."
+        },
+        {
+          "title": "Eos and the Trojan War",
+          "summary": "Eos is said to have participated in the Trojan War, where she would rise at dawn each day to bring light to the battlefield. Some versions also mention her involvement in the deaths of several warriors."
+        },
+        {
+          "title": "Eos and the Sunset",
+          "summary": "Eos’ twin brother, Helios, is the sun god, and together they represent the cycle of the day. As Eos rises to herald the dawn, her brother sets the sun at the end of the day, and they are often linked in the eternal cycle of light and darkness."
+        }
+      ],
+      "relationships": {
+        "spouse": "None",
+        "siblings": ["Helios", "Selene"],
+        "children": ["Memnon"]
+      }
+    },
+    {
+      "name": "Helios",
+      "type": "God",
+      "domain": "Sun",
+      "title": "God of the Sun",
+      "parentage": {
+        "father": "Hyperion",
+        "mother": "Theia"
+      },
+      "symbols": ["Sun Chariot", "Flames", "Crown of Rays"],
+      "associatedAnimals": ["Horse", "Cock"],
+      "description": "Helios is the personification of the Sun in Greek mythology, responsible for driving the Sun across the sky in his golden chariot each day. Before Apollo took over the role as the Sun god, Helios was the primary deity associated with the Sun. Helios is often depicted as a radiant figure, with a crown of sunbeams, driving a chariot pulled by four fiery horses. He is seen as a watchful, all-seeing deity, as he is said to observe everything that happens on earth, and his eyes witness both mortal actions and divine affairs.",
+      "notableMyths": [
+        {
+          "title": "The Chariot of Helios",
+          "summary": "Helios daily drives the Sun across the sky in his chariot, pulled by four horses. His fiery path brings daylight to the world, and he is often depicted as riding across the heavens with great power and speed."
+        },
+        {
+          "title": "Helios and Phaethon",
+          "summary": "Helios’ son, Phaethon, attempted to drive the Sun chariot but failed to control the fiery horses, leading to his tragic death as Zeus struck him down with a thunderbolt to prevent further disaster."
+        },
+        {
+          "title": "Helios and the Cattle of the Sun",
+          "summary": "In Homer's Odyssey, Helios' sacred cattle are stolen by Odysseus' men, leading to their punishment by Zeus. Helios demands justice for the theft of his prized cattle, which are forbidden to be harmed."
+        }
+      ],
+      "relationships": {
+        "spouse": "Clymene",
+        "siblings": ["Selene", "Eos"],
+        "children": ["Phaethon"]
+      }
+    },
+    {
+      "name": "Nike",
+      "type": "Goddess",
+      "domain": "Victory",
+      "title": "Goddess of Victory",
+      "parentage": {
+        "father": "Pallas",
+        "mother": "Styx"
+      },
+      "symbols": ["Wings", "Laurel Wreath", "Palm Branch"],
+      "associatedAnimals": ["Eagle"],
+      "description": "Nike is the Greek goddess of victory, both in war and peaceful competitions. She is often depicted with wings, symbolizing her swift nature, and carrying a laurel wreath or palm branch, which are symbols of triumph. Nike was a companion of Athena and Zeus, aiding them in their victories in various battles. She was also associated with athletic contests, ensuring the success of those who competed in the ancient Olympic Games.",
+      "notableMyths": [
+        {
+          "title": "Nike and the Trojan War",
+          "summary": "Nike was frequently depicted as accompanying the gods during the Trojan War, often seen alongside Athena, bringing victory to the Greek forces."
+        },
+        {
+          "title": "Nike and the Roman Influence",
+          "summary": "Nike's image and symbolism were later adopted by the Romans, who revered her as a symbol of military success and achievement."
+        },
+        {
+          "title": "Nike and the Olympic Games",
+          "summary": "Nike is often connected to the ancient Olympic Games, where victors would be crowned with a wreath as a symbol of their triumph, a practice stemming from her influence."
+        }
+      ],
+      "relationships": {
+        "spouse": "None",
+        "siblings": ["Bia", "Cratos", "Zelos"],
+        "children": ["None"]
+      }
+    },
+    {
+      "name": "Iris",
+      "type": "Goddess",
+      "domain": "Rainbow and Messenger of the Gods",
+      "title": "Goddess of the Rainbow",
+      "parentage": {
+        "father": "Thaumas",
+        "mother": "Electra"
+      },
+      "symbols": ["Rainbow", "Golden Staff", "Wings"],
+      "associatedAnimals": ["Pigeon", "Dove"],
+      "description": "Iris is the goddess of the rainbow and the messenger of the gods. She is often depicted as a beautiful young woman with wings, carrying a golden staff or herald's rod. Iris travels between the gods and mortals, delivering messages, and her rainbow is seen as a bridge connecting the heavens to the earth. Her role as a divine messenger extends to both gods and mortals, embodying communication, hope, and the linking of worlds.",
+      "notableMyths": [
+        {
+          "title": "Iris and the Gods' Messages",
+          "summary": "Iris frequently served as a messenger for Zeus and other Olympian gods, delivering their commands to both mortals and other deities."
+        },
+        {
+          "title": "Iris and the Trojan War",
+          "summary": "In the Trojan War, Iris was sent by Hera to summon the gods to aid the Trojans, and she also delivered messages from Zeus to the other gods."
+        },
+        {
+          "title": "Iris and the Souls of the Dead",
+          "summary": "Iris is also said to carry the souls of the dead to the underworld, guiding them from the mortal realm to the afterlife."
+        }
+      ],
+      "relationships": {
+        "spouse": "Zephyrus (the West Wind)",
+        "siblings": ["Aello", "Ocypete"],
+        "children": ["Pothos"]
+      }
+    },
+    {
+      "name": "Nemesis",
+      "type": "Goddess",
+      "domain": "Revenge and Balance",
+      "title": "Goddess of Revenge",
+      "parentage": {
+        "father": "Nyx",
+        "mother": "None"
+      },
+      "symbols": ["Wheel of Fortune", "Sword", "Scale of Justice"],
+      "associatedAnimals": ["Wolf", "Swan"],
+      "description": "Nemesis is the Greek goddess of revenge, retribution, and balance. She is often depicted as a winged figure, carrying a sword or a scale, symbolizing her role in delivering justice. Nemesis ensures that balance is maintained by punishing excessive pride, arrogance, and undeserved success. Her primary function is to enact retribution against those who are guilty of hubris, or excessive pride, particularly those who defy the gods.",
+      "notableMyths": [
+        {
+          "title": "Nemesis and Narcissus",
+          "summary": "Nemesis played a key role in the myth of Narcissus, ensuring that the vain young man fell in love with his own reflection as a punishment for his arrogance, which led to his tragic death."
+        },
+        {
+          "title": "Nemesis and the Punishment of Hubris",
+          "summary": "Nemesis was often invoked to punish mortals who displayed hubris, ensuring that those who were too proud or selfish faced divine retribution."
+        },
+        {
+          "title": "Nemesis and the Golden Apple",
+          "summary": "In some versions of the myth, Nemesis is involved in the story of the golden apple, delivering retribution against Paris for his role in sparking the Trojan War."
+        }
+      ],
+      "relationships": {
+        "spouse": "None",
+        "siblings": ["The Fates (Moirai)"],
+        "children": ["Helios", "Nemea"]
+      }
+    },
+    {
+      "name": "Tyche",
+      "type": "Goddess",
+      "domain": "Fortune and Prosperity",
+      "title": "Goddess of Fortune",
+      "parentage": {
+        "father": "Oceanus",
+        "mother": "Tethys"
+      },
+      "symbols": ["Cornucopia", "Wheel of Fortune", "Torch"],
+      "associatedAnimals": ["Peacock", "Lion"],
+      "description": "Tyche is the Greek goddess of fortune, prosperity, and good luck. She is often depicted holding a cornucopia, symbolizing abundance and plenty, and a wheel, representing the ever-changing nature of fate and fortune. Tyche’s role in mythology is to oversee the distribution of wealth, happiness, and success. While she can bring prosperity, she can also bring misfortune, as her wheel turns unpredictably, symbolizing the capriciousness of fate and fortune.",
+      "notableMyths": [
+        {
+          "title": "Tyche and the City of Antioch",
+          "summary": "Tyche was associated with the city of Antioch, where her statue was erected as a symbol of the city's prosperity and good fortune."
+        },
+        {
+          "title": "Tyche and the Wheel of Fortune",
+          "summary": "Tyche is often depicted with the Wheel of Fortune, symbolizing the idea that fortune is fickle, capable of bringing both wealth and ruin depending on her will."
+        },
+        {
+          "title": "Tyche and the Fortune of the Gods",
+          "summary": "In some myths, Tyche is seen as the one who determines the success of mortals and gods alike, shaping their destinies with her unpredictable nature."
+        }
+      ],
+      "relationships": {
+        "spouse": "None",
+        "siblings": ["The River Gods"],
+        "children": ["None"]
+      }
+    },
+    {
+      "name": "Pan",
+      "type": "God",
+      "domain": "Nature, Shepherds, and Flocks",
+      "title": "God of the Wild",
+      "parentage": {
+        "father": "Hermes",
+        "mother": "Dryope"
+      },
+      "symbols": ["Panpipes", "Goat", "Syrinx"],
+      "associatedAnimals": ["Goat", "Sheep", "Panther"],
+      "description": "Pan is the Greek god of nature, wild places, shepherds, and flocks. He is a half-man, half-goat deity, known for his playful, mischievous nature and his love for music. Pan is often depicted playing the panpipes, an instrument made from reeds, and he roams the wilderness, inspiring both fear and joy in those who encounter him. His connection to nature is strong, and he is often associated with the untamed aspects of the world, including mountains, forests, and fields.",
+      "notableMyths": [
+        {
+          "title": "Pan and Syrinx",
+          "summary": "Pan is famously connected to the myth of Syrinx, a nymph who transformed into reeds to escape his advances. He later fashioned the reeds into the panpipes, which became his signature instrument."
+        },
+        {
+          "title": "Pan and the Panic",
+          "summary": "Pan is the source of the term 'panic,' as his sudden, frightening appearance in the wilderness would cause overwhelming fear and confusion in those who encountered him."
+        },
+        {
+          "title": "Pan and the Wild Hunts",
+          "summary": "In some myths, Pan is seen leading the wild hunts in the forests, guiding the spirits of the hunt as they chase after animals in the wilderness."
+        }
+      ],
+      "relationships": {
+        "spouse": "None",
+        "siblings": ["Hermes' other children"],
+        "children": ["None"]
+      }
+    },
+    {
+      "name": "Selene",
+      "type": "Goddess",
+      "domain": "Moon",
+      "title": "Goddess of the Moon",
+      "parentage": {
+        "father": "Hyperion",
+        "mother": "Theia"
+      },
+      "symbols": ["Moon", "Chariot", "Silver Crescent"],
+      "associatedAnimals": ["Horse", "Oxen"],
+      "description": "Selene is the Greek goddess of the moon, often depicted as a beautiful woman driving a chariot drawn by two horses across the night sky. She is one of the Titan goddesses, and her role was to bring the moonlight to the earth each night. As the personification of the moon, Selene embodies the cycle of the moon's phases, moving gracefully across the sky in a timeless rhythm. Unlike her later counterpart Artemis, who is associated with hunting and wilderness, Selene's domain is more directly connected with the celestial body itself.",
+      "notableMyths": [
+        {
+          "title": "Selene and Endymion",
+          "summary": "Selene is most famous for her love affair with Endymion, a handsome shepherd or hunter whom she saw while driving her chariot across the night sky. She asked Zeus to grant him eternal sleep so that she could visit him forever."
+        },
+        {
+          "title": "Selene and the Moon's Cycle",
+          "summary": "Selene is said to ride her chariot across the sky each night, her moon shining with a soft, silver light. Her movements reflect the changing phases of the moon, symbolizing the passage of time."
+        },
+        {
+          "title": "Selene's Influence Over the Tides",
+          "summary": "In some myths, it is believed that Selene's moonlight has an influence over the tides, affecting the rhythms of the seas and oceans."
+        }
+      ],
+      "relationships": {
+        "spouse": "Endymion",
+        "siblings": ["Helios", "Eos"],
+        "children": ["Pandia"]
+      }
+    },
+    {
+      "name": "Heracles (Hercules)",
+      "type": "Hero",
+      "domain": "Strength and Heroism",
+      "title": "The Twelve Labors Hero",
+      "parentage": {
+        "father": "Zeus",
+        "mother": "Alcmene"
+      },
+      "symbols": ["Club", "Lion Skin", "Bow and Arrows"],
+      "associatedAnimals": ["Lion", "Horses", "Boar"],
+      "description": "Heracles is known for his incredible strength and for completing the Twelve Labors, which earned him immortality.",
+      "notableMyths": [
+        {
+          "title": "The Twelve Labors of Heracles",
+          "summary": "Heracles was tasked with twelve impossible labors, including slaying the Nemean Lion and capturing the Golden Hind."
+        },
+        {
+          "title": "Heracles and the Apples of the Hesperides",
+          "summary": "Heracles obtained the golden apples, defeating the dragon guarding them."
+        }
+      ],
+      "relationships": {
+        "spouse": "Megara, Deianira",
+        "children": ["Hyllus", "Telephus"]
+      }
+    },
+    {
+      "name": "Perseus",
+      "type": "Hero",
+      "domain": "Slayer of Monsters",
+      "title": "Slayer of Medusa",
+      "parentage": {
+        "father": "Zeus",
+        "mother": "Danaë"
+      },
+      "symbols": ["Shield", "Sword", "Medusa's Head"],
+      "associatedAnimals": ["Pegasus"],
+      "description": "Perseus is famous for slaying Medusa, the Gorgon, and rescuing Andromeda from a sea monster.",
+      "notableMyths": [
+        {
+          "title": "Perseus and Medusa",
+          "summary": "With the help of Athena and Hermes, Perseus beheaded Medusa, using her head to turn his enemies into stone."
+        },
+        {
+          "title": "Perseus and Andromeda",
+          "summary": "Perseus rescued Andromeda from a sea monster and later married her."
+        }
+      ],
+      "relationships": {
+        "spouse": "Andromeda",
+        "children": ["Perses", "Alcaeus"]
+      }
+    },
+    {
+      "name": "Theseus",
+      "type": "Hero",
+      "domain": "Labyrinth and the Minotaur",
+      "title": "Slayer of the Minotaur",
+      "parentage": {
+        "father": "Aegeus",
+        "mother": "Aethra"
+      },
+      "symbols": ["Sword", "Ariadne's Thread", "Crown"],
+      "associatedAnimals": ["Bull"],
+      "description": "Theseus is known for slaying the Minotaur in the Labyrinth and uniting the city of Athens.",
+      "notableMyths": [
+        {
+          "title": "Theseus and the Minotaur",
+          "summary": "Theseus ventured into the Labyrinth and used a thread to navigate its maze, slaying the Minotaur."
+        },
+        {
+          "title": "The Battle of the Amazons",
+          "summary": "Theseus fought the Amazons and took their queen, Hippolyta, as his wife."
+        }
+      ],
+      "relationships": {
+        "spouse": "Hippolyta",
+        "children": ["Hippolytus"]
+      }
+    },
+    {
+      "name": "Achilles",
+      "type": "Hero",
+      "domain": "War and Valor",
+      "title": "The Greatest of Greek Heroes",
+      "parentage": {
+        "father": "Peleus",
+        "mother": "Thetis"
+      },
+      "symbols": ["Shield", "Armor", "Sword"],
+      "associatedAnimals": ["Horse (Bucephalus)"],
+      "description": "Achilles is the central hero of the Trojan War, known for his near invincibility and tragic death.",
+      "notableMyths": [
+        {
+          "title": "The Trojan War",
+          "summary": "Achilles was the greatest warrior in the Trojan War, and his anger led to his temporary withdrawal from battle."
+        },
+        {
+          "title": "Achilles and Patroclus",
+          "summary": "Achilles' grief over the death of his close companion Patroclus led him to return to battle and kill Hector."
+        }
+      ],
+      "relationships": {
+        "spouse": "Briseis",
+        "children": ["Neoptolemus"]
+      }
+    },
+    {
+      "name": "Odysseus (Ulysses)",
+      "type": "Hero",
+      "domain": "Cunning and Adventure",
+      "title": "The King of Ithaca",
+      "parentage": {
+        "father": "Laertes",
+        "mother": "Anticlea"
+      },
+      "symbols": ["Bow", "Ship", "Cunning"],
+      "associatedAnimals": ["Horse"],
+      "description": "Odysseus is known for his long journey home after the Trojan War, facing numerous trials along the way.",
+      "notableMyths": [
+        {
+          "title": "The Odyssey",
+          "summary": "Odysseus' ten-year journey to return home to Ithaca was filled with encounters with monsters and divine beings."
+        },
+        {
+          "title": "The Trojan Horse",
+          "summary": "Odysseus devised the plan for the Trojan Horse, leading to the fall of Troy."
+        }
+      ],
+      "relationships": {
+        "spouse": "Penelope",
+        "children": ["Telemachus"]
+      }
+    },
+    {
+      "name": "Jason",
+      "type": "Hero",
+      "domain": "Leader of the Argonauts",
+      "title": "The Quest for the Golden Fleece",
+      "parentage": {
+        "father": "Aeson",
+        "mother": "Polymede"
+      },
+      "symbols": ["Golden Fleece", "Ship (Argo)", "Sword"],
+      "associatedAnimals": ["Ram"],
+      "description": "Jason led the Argonauts on their quest for the Golden Fleece, overcoming many challenges along the way.",
+      "notableMyths": [
+        {
+          "title": "The Argonauts",
+          "summary": "Jason assembled a group of heroes, the Argonauts, to retrieve the Golden Fleece from Colchis."
+        },
+        {
+          "title": "Jason and Medea",
+          "summary": "Jason's relationship with Medea, who helped him in his quest, became central to his story."
+        }
+      ],
+      "relationships": {
+        "spouse": "Medea",
+        "children": ["Medus"]
+      }
+    },
+    {
+      "name": "Bellerophon",
+      "type": "Hero",
+      "domain": "Slayer of Chimera",
+      "title": "Tamer of the Pegasus",
+      "parentage": {
+        "father": "Glaucus",
+        "mother": "Eurynome"
+      },
+      "symbols": ["Bridle", "Pegasus", "Sword"],
+      "associatedAnimals": ["Pegasus", "Chimera"],
+      "description": "Bellerophon is famous for slaying the Chimera with the help of Pegasus, the winged horse.",
+      "notableMyths": [
+        {
+          "title": "Bellerophon and the Chimera",
+          "summary": "Bellerophon rode Pegasus to slay the Chimera, a fire-breathing monster."
+        },
+        {
+          "title": "Bellerophon and the Gods",
+          "summary": "Bellerophon tried to fly to Mount Olympus on Pegasus but was struck down by Zeus as punishment for his arrogance."
+        }
+      ],
+      "relationships": {
+        "spouse": "Philonoe",
+        "children": ["Isander"]
+      }
+    },
+    {
+      "name": "Atalanta",
+      "type": "Heroine",
+      "domain": "Hunting and Speed",
+      "title": "The Fleetest of Foot",
+      "parentage": {
+        "father": "Iasus",
+        "mother": "Clymene"
+      },
+      "symbols": ["Bow and Arrows", "Lion Skin", "Golden Apples"],
+      "associatedAnimals": ["Bears", "Boars"],
+      "description": "Atalanta is renowned for her speed and hunting prowess, and she was one of the Argonauts and participated in the Calydonian Boar Hunt.",
+      "notableMyths": [
+        {
+          "title": "The Calydonian Boar Hunt",
+          "summary": "Atalanta was the first to wound the Calydonian Boar, earning the respect of the hunters."
+        },
+        {
+          "title": "The Race with Hippomenes",
+          "summary": "Atalanta raced Hippomenes for her hand in marriage, losing after he used golden apples to distract her."
+        }
+      ],
+      "relationships": {
+        "spouse": "Hippomenes",
+        "children": ["Parthenopaeus"]
+      }
+    },
+    {
+      "name": "Orpheus",
+      "type": "Hero",
+      "domain": "Music and Poetry",
+      "title": "The Musician of the Underworld",
+      "parentage": {
+        "father": "Apollo",
+        "mother": "Calliope"
+      },
+      "symbols": ["Lyre", "Music", "Poetry"],
+      "associatedAnimals": ["Birds", "Bears"],
+      "description": "Orpheus is known for his enchanting music and his descent into the Underworld to retrieve his wife, Eurydice.",
+      "notableMyths": [
+        {
+          "title": "Orpheus and Eurydice",
+          "summary": "Orpheus descended into the Underworld to bring back his wife, Eurydice, but lost her forever by looking back at her."
+        },
+        {
+          "title": "Orpheus and the Maenads",
+          "summary": "Orpheus was killed by the Maenads for refusing to worship Dionysus, his death marking the end of his music."
+        }
+      ],
+      "relationships": {
+        "spouse": "Eurydice",
+        "children": ["Musaeus"]
+      }
+    },
+    {
+      "name": "Cadmus",
+      "type": "Hero",
+      "domain": "Founder of Thebes",
+      "title": "The Dragon Slayer",
+      "parentage": {
+        "father": "Agénor",
+        "mother": "Telephassa"
+      },
+      "symbols": ["Sword", "Dragon's Teeth", "Thebes"],
+      "associatedAnimals": ["Dragon"],
+      "description": "Cadmus founded the city of Thebes and is known for sowing the teeth of a dragon, which grew into warriors.",
+      "notableMyths": [
+        {
+          "title": "The Slaying of the Dragon",
+          "summary": "Cadmus killed the dragon guarding the spring of Ares, sowing its teeth to create warriors."
+        },
+        {
+          "title": "Cadmus and Harmonia",
+          "summary": "Cadmus married Harmonia, and they both were transformed into serpents in the afterlife."
+        }
+      ],
+      "relationships": {
+        "spouse": "Harmonia",
+        "children": ["Ino", "Autonoe", "Polydorus"]
+      }
+    },
+    {
+      "name": "Meleager",
+      "type": "Hero",
+      "domain": "Hunting and Valor",
+      "title": "The Calydonian Boar Hunter",
+      "parentage": {
+        "father": "Oeneus",
+        "mother": "Althaea"
+      },
+      "symbols": ["Spear", "Boar's Head", "Hunting Dogs"],
+      "associatedAnimals": ["Boar", "Hounds"],
+      "description": "Meleager is known for leading the Calydonian Boar Hunt, where he and Atalanta helped slay the monstrous boar.",
+      "notableMyths": [
+        {
+          "title": "The Calydonian Boar Hunt",
+          "summary": "Meleager led the hunt against the monstrous boar sent by Artemis, with Atalanta playing a key role in its defeat."
+        },
+        {
+          "title": "The Death of Meleager",
+          "summary": "Meleager was killed by his mother, Althaea, who cursed him after he killed his uncles."
+        }
+      ],
+      "relationships": {
+        "spouse": "Deianira",
+        "children": ["Meleager the Younger"]
+      }
+    },
+    {
+      "name": "Ajax the Great (Aias)",
+      "type": "Hero",
+      "domain": "Warrior of the Trojan War",
+      "title": "The Tower of Strength",
+      "parentage": {
+        "father": "Telamon",
+        "mother": "Periboea"
+      },
+      "symbols": ["Sword", "Shield", "Armor"],
+      "associatedAnimals": ["None"],
+      "description": "Ajax the Great is known for his immense strength and courage in battle during the Trojan War, and for his tragic death after being driven mad by Athena.",
+      "notableMyths": [
+        {
+          "title": "The Duel with Hector",
+          "summary": "Ajax fought Hector to a standstill in a duel during the Trojan War."
+        },
+        {
+          "title": "The Madness of Ajax",
+          "summary": "Ajax, driven mad by Athena, slaughtered cattle believing they were Greek leaders, and later committed suicide in shame."
+        }
+      ],
+      "relationships": {
+        "spouse": "Tecmessa",
+        "children": ["Eurysaces"]
+      }
+    },
+    {
+      "name": "Ajax the Lesser",
+      "type": "Hero",
+      "domain": "Warrior of the Trojan War",
+      "title": "The Swift Warrior",
+      "parentage": {
+        "father": "Oileus",
+        "mother": "Eriopis"
+      },
+      "symbols": ["Spear", "Helmet"],
+      "associatedAnimals": ["None"],
+      "description": "Ajax the Lesser is known for his speed and his role in the Trojan War, though he was infamous for his treatment of Cassandra, leading to his downfall.",
+      "notableMyths": [
+        {
+          "title": "The Rape of Cassandra",
+          "summary": "Ajax the Lesser raped Cassandra in the temple of Athena, which led to the goddess' wrath and his eventual death."
+        },
+        {
+          "title": "The Death of Ajax the Lesser",
+          "summary": "After desecrating the temple, Ajax was struck by a lightning bolt from Zeus, killing him."
+        }
+      ],
+      "relationships": {
+        "spouse": "None",
+        "children": ["None"]
+      }
+    },
+    {
+      "name": "Diomedes",
+      "type": "Hero",
+      "domain": "Warrior of the Trojan War",
+      "title": "The Glorious Warrior",
+      "parentage": {
+        "father": "Tydeus",
+        "mother": "Deipyle"
+      },
+      "symbols": ["Spear", "Shield"],
+      "associatedAnimals": ["None"],
+      "description": "Diomedes was one of the greatest warriors in the Trojan War, known for his bravery and his feats alongside the gods.",
+      "notableMyths": [
+        {
+          "title": "Diomedes and the Gods",
+          "summary": "Diomedes fought alongside Athena and was even aided by her in battle, defeating many great Trojan heroes."
+        },
+        {
+          "title": "The Theft of the Palladium",
+          "summary": "Diomedes, along with Odysseus, stole the Palladium, the statue of Athena that protected Troy."
+        }
+      ],
+      "relationships": {
+        "spouse": "Aegialeia",
+        "children": ["Oenius"]
+      }
+    },
+    {
+      "name": "Patroclus",
+      "type": "Hero",
+      "domain": "Companion of Achilles",
+      "title": "The Loyal Friend",
+      "parentage": {
+        "father": "Menoetius",
+        "mother": "Salkyne"
+      },
+      "symbols": ["Armor", "Spear"],
+      "associatedAnimals": ["None"],
+      "description": "Patroclus was a dear friend and companion to Achilles. His death at the hands of Hector was the catalyst for Achilles' return to battle.",
+      "notableMyths": [
+        {
+          "title": "The Death of Patroclus",
+          "summary": "Patroclus, wearing Achilles' armor, was killed by Hector during the Trojan War, spurring Achilles to avenge him."
+        },
+        {
+          "title": "Patroclus' Funeral Games",
+          "summary": "In honor of Patroclus, Achilles held grand funeral games, which were attended by the Greek heroes."
+        }
+      ],
+      "relationships": {
+        "spouse": "None",
+        "children": ["None"]
+      }
+    },
+    {
+      "name": "Antiope",
+      "type": "Heroine",
+      "domain": "Queen of the Amazons",
+      "title": "The Amazonian Queen",
+      "parentage": {
+        "father": "Ares",
+        "mother": "Otrera"
+      },
+      "symbols": ["Bow", "Arrow", "Shield"],
+      "associatedAnimals": ["Horses", "Wolves"],
+      "description": "Antiope was an Amazonian queen known for her strength, beauty, and leadership, and she played a key role in the Amazonomachy, the battle between the Amazons and the Greeks.",
+      "notableMyths": [
+        {
+          "title": "The Amazonomachy",
+          "summary": "Antiope led the Amazons in battle against the Greeks, particularly in the conflict with Heracles during his labors."
+        },
+        {
+          "title": "Antiope and Theseus",
+          "summary": "After being captured by Theseus, Antiope became his wife and mother to his child, Hippolytus."
+        }
+      ],
+      "relationships": {
+        "spouse": "Theseus",
+        "children": ["Hippolytus"]
+      }
+    },
+    {
+      "name": "Peleus",
+      "type": "Hero",
+      "domain": "King of Phthia",
+      "title": "The Father of Achilles",
+      "parentage": {
+        "father": "Aeacus",
+        "mother": "Endeïs"
+      },
+      "symbols": ["Sword", "Armor"],
+      "associatedAnimals": ["None"],
+      "description": "Peleus was the king of Phthia and the father of Achilles, known for his role in the Trojan War and his marriage to Thetis, a sea nymph.",
+      "notableMyths": [
+        {
+          "title": "Peleus and Thetis",
+          "summary": "Peleus' marriage to the sea nymph Thetis was attended by all gods, and their son, Achilles, was destined for greatness."
+        },
+        {
+          "title": "Peleus' Death",
+          "summary": "Peleus was eventually transformed into a god after his death and joined the gods on Mount Olympus."
+        }
+      ],
+      "relationships": {
+        "spouse": "Thetis",
+        "children": ["Achilles"]
+      }
+    },
+    {
+      "name": "Iolaus",
+      "type": "Hero",
+      "domain": "Companion of Heracles",
+      "title": "The Loyal Nephew",
+      "parentage": {
+        "father": "Iphicles",
+        "mother": "Alcimede"
+      },
+      "symbols": ["Torch", "Spear"],
+      "associatedAnimals": ["None"],
+      "description": "Iolaus was the nephew of Heracles and his loyal companion, aiding him in many of his labors.",
+      "notableMyths": [
+        {
+          "title": "The Twelve Labors of Heracles",
+          "summary": "Iolaus assisted Heracles in his second labor, the slaying of the Lernaean Hydra, by cauterizing the monster's heads."
+        }
+      ],
+      "relationships": {
+        "spouse": "None",
+        "children": ["None"]
+      }
+    },
+    {
+      "name": "Philoctetes",
+      "type": "Hero",
+      "domain": "Warrior of the Trojan War",
+      "title": "The Keeper of Heracles' Bow",
+      "parentage": {
+        "father": "Poias",
+        "mother": "Medea"
+      },
+      "symbols": ["Bow", "Arrows"],
+      "associatedAnimals": ["None"],
+      "description": "Philoctetes was a Greek hero and the wielder of Heracles' bow, playing a crucial role in the Trojan War.",
+      "notableMyths": [
+        {
+          "title": "Philoctetes and the Trojan War",
+          "summary": "Philoctetes, after being abandoned due to a wound, played a key role in the Trojan War by killing Paris with the bow of Heracles."
+        }
+      ],
+      "relationships": {
+        "spouse": "None",
+        "children": ["None"]
+      }
+    },
+    {
+      "name": "Eteocles",
+      "type": "Hero",
+      "domain": "King of Thebes",
+      "title": "The Twin Brother of Polynices",
+      "parentage": {
+        "father": "Oedipus",
+        "mother": "Jocasta"
+      },
+      "symbols": ["Sword", "Armor"],
+      "associatedAnimals": ["None"],
+      "description": "Eteocles was one of the sons of Oedipus and Jocasta, and he fought against his brother Polynices for control of Thebes.",
+      "notableMyths": [
+        {
+          "title": "The Seven Against Thebes",
+          "summary": "Eteocles and his brother Polynices fought in the battle for control of Thebes, where they both died in a duel."
+        }
+      ],
+      "relationships": {
+        "spouse": "None",
+        "children": ["None"]
+      }
+    },
+    {
+      "name": "Polynices",
+      "type": "Hero",
+      "domain": "King of Thebes",
+      "title": "The Twin Brother of Eteocles",
+      "parentage": {
+        "father": "Oedipus",
+        "mother": "Jocasta"
+      },
+      "symbols": ["Sword", "Armor"],
+      "associatedAnimals": ["None"],
+      "description": "Polynices, the brother of Eteocles, was involved in a bitter feud with him for the throne of Thebes, which led to both of their deaths.",
+      "notableMyths": [
+        {
+          "title": "The Seven Against Thebes",
+          "summary": "Polynices led the army against Thebes in an attempt to claim the throne, and he perished in a duel with his brother."
+        }
+      ],
+      "relationships": {
+        "spouse": "None",
+        "children": ["None"]
+      }
+    },
+    {
+      "name": "Oedipus",
+      "type": "Hero",
+      "domain": "King of Thebes",
+      "title": "The Tragic King",
+      "parentage": {
+        "father": "Laius",
+        "mother": "Jocasta"
+      },
+      "symbols": ["Throne", "Sword"],
+      "associatedAnimals": ["None"],
+      "description": "Oedipus is known for his tragic fate, fulfilling a prophecy that he would kill his father and marry his mother.",
+      "notableMyths": [
+        {
+          "title": "The Prophecy of Oedipus",
+          "summary": "Oedipus unknowingly fulfilled a prophecy by killing his father Laius and marrying his mother Jocasta, leading to his downfall."
+        }
+      ],
+      "relationships": {
+        "spouse": "Jocasta",
+        "children": ["Antigone", "Ismene", "Eteocles", "Polynices"]
+      }
+    },
+    {
+      "name": "Phaethon",
+      "type": "Hero",
+      "domain": "Son of Helios",
+      "title": "The Tragic Son of the Sun God",
+      "parentage": {
+        "father": "Helios",
+        "mother": "Clymene"
+      },
+      "symbols": ["Chariot", "Sun"],
+      "associatedAnimals": ["None"],
+      "description": "Phaethon was the son of Helios, the sun god, who tried to drive his father's sun chariot but lost control and caused a great disaster.",
+      "notableMyths": [
+        {
+          "title": "The Ride of Phaethon",
+          "summary": "Phaethon attempted to drive the sun chariot but lost control, causing the earth to burn and leading to his death."
+        }
+      ],
+      "relationships": {
+        "spouse": "None",
+        "children": ["None"]
+      }
+    },
+    {
+      "name": "Aeneas",
+      "type": "Hero",
+      "domain": "Trojan Hero",
+      "title": "The Founder of Rome",
+      "parentage": {
+        "father": "Anchises",
+        "mother": "Aphrodite"
+      },
+      "symbols": ["Sword", "Shield"],
+      "associatedAnimals": ["None"],
+      "description": "Aeneas is a Trojan hero, the son of Aphrodite, who survived the fall of Troy and eventually founded the Roman people.",
+      "notableMyths": [
+        {
+          "title": "The Aeneid",
+          "summary": "Aeneas' journey after the fall of Troy is chronicled in Virgil's 'Aeneid,' in which he seeks a new home and becomes the ancestor of the Romans."
+        }
+      ],
+      "relationships": {
+        "spouse": "Creusa",
+        "children": ["Ascanius"]
+      }
+    }
+  ]
+}
