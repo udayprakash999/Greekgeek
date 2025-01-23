@@ -15,6 +15,7 @@
       <div class="header-text">
         <h4>Step Into the Pantheon of the</h4>
         <h1>GreekGeek</h1>
+        <button class="btn"><a href="https://greekgeek-ygnt.onrender.com" target="_blank">GoTo-API</a></button>
       </div>
     </header>
 
@@ -44,11 +45,11 @@
         <div class="get-data-profile">
           <img src="assets/woman-8127650_1280.png" alt="" />
         </div>
+
         <h2>API Endpoints</h2>
         <div class="section-container">
           <div class="endpoint-box">
             <label for="get-characters">Get Characters Endpoint:</label>
-
             <div class="input">
               <div class="get">GET</div>
               <input
@@ -57,55 +58,53 @@
                 value="/api/getCharacters"
                 readonly
               />
-              <button class="copy-btn" onclick="copyEndpoint()">Copy</button>
+              <button class="copy-btn" onclick="copyEndpoint('get-characters', this)">Copy</button>
             </div>
           </div>
-
+        
           <div class="endpoint-box">
-            <label for="get-characters">Get Monsters Endpoint:</label>
-
+            <label for="get-monsters">Get Monsters Endpoint:</label>
             <div class="input">
               <div class="get">GET</div>
               <input
-                id="get-characters"
+                id="get-monsters"
                 type="text"
-                value="/api/getCharacters"
+                value="/api/getMonsters"
                 readonly
               />
-              <button class="copy-btn" onclick="copyEndpoint()">Copy</button>
+              <button class="copy-btn" onclick="copyEndpoint('get-monsters', this)">Copy</button>
             </div>
           </div>
-
+        
           <div class="endpoint-box">
-            <label for="get-characters">Get Places Endpoint:</label>
-
+            <label for="get-places">Get Places Endpoint:</label>
             <div class="input">
               <div class="get">GET</div>
               <input
-                id="get-characters"
+                id="get-places"
                 type="text"
-                value="/api/getCharacters"
+                value="/api/getPlaces"
                 readonly
               />
-              <button class="copy-btn" onclick="copyEndpoint()">Copy</button>
+              <button class="copy-btn" onclick="copyEndpoint('get-places', this)">Copy</button>
             </div>
           </div>
-
+        
           <div class="endpoint-box">
-            <label for="get-characters">Get Weapons Endpoint:</label>
-
+            <label for="get-weapons">Get Weapons Endpoint:</label>
             <div class="input">
               <div class="get">GET</div>
               <input
-                id="get-characters"
+                id="get-weapons"
                 type="text"
-                value="/api/getCharacters"
+                value="/api/getWeapons"
                 readonly
               />
-              <button class="copy-btn" onclick="copyEndpoint()">Copy</button>
+              <button class="copy-btn" onclick="copyEndpoint('get-weapons', this)">Copy</button>
             </div>
           </div>
         </div>
+        
       </section>
 
       <section class="data-object">
